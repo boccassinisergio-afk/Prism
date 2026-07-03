@@ -1,0 +1,1005 @@
+source,model_name,organization,release_date,domain,parameters,training_compute_flop,training_dataset_size,country,training_cost_usd,link
+epoch_ai,,NVIDIA,2026-03-11,Language,120000000000.0,,,United States of America,,https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/
+epoch_ai,,Google DeepMind,2026-03-03,Language,,,,United States of America,,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/
+epoch_ai,,Cognition,2026-03-01,Language,,,,United States of America,,https://cognition.ai/blog/swe-1-6-preview
+epoch_ai,,Alibaba,2026-02-24,Language,122000000000.0,,,China,,https://github.com/QwenLM/Qwen3.5?tab=readme-ov-file 
+epoch_ai,,Google DeepMind,2026-02-19,"Language,Vision",,,,United States of America,,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+epoch_ai,,Z.ai (Zhipu AI),2026-02-17,Language,744000000000.0,6.84e+24,,China,,https://arxiv.org/pdf/2602.15763
+epoch_ai,,Alibaba,2026-02-13,"Language,Vision",397000000000.0,,,China,,https://qwen.ai/blog?id=qwen3.5
+epoch_ai,,ByteDance,2026-02-12,"Image generation,Video,Audio",,,,China,,https://seed.bytedance.com/en/seedance2_0
+epoch_ai,,OpenAI,2026-02-05,Language,,,,United States of America,,https://openai.com/index/introducing-gpt-5-3-codex/
+epoch_ai,,Alibaba,2026-02-02,Language,80000000000.0,,,China,,https://qwen.ai/blog?id=qwen3-coder-next
+epoch_ai,,Moonshot,2026-02-02,Language,1040000000000.0,5.8e+24,,China,,https://arxiv.org/abs/2602.02276
+epoch_ai,,Alibaba,2026-01-25,Language,,,,China,,https://qwen.ai/blog?id=qwen3-max-thinking
+epoch_ai,,Upstage,2025-12-31,Language,102000000000.0,,,Korea (Republic of),,https://huggingface.co/upstage/Solar-Open-100B
+epoch_ai,,LG AI Research,2025-12-31,Language,236000000000.0,1.52e+24,,Korea (Republic of),,https://huggingface.co/LGAI-EXAONE
+epoch_ai,,NC AI,2025-12-30,Language,100000000000.0,,,Korea (Republic of),,https://huggingface.co/NC-AI-consortium-VAETKI/VAETKI
+epoch_ai,,SK Telecom,2025-12-30,Language,519000000000.0,,,Korea (Republic of),,https://huggingface.co/skt
+epoch_ai,,NAVER,2025-12-29,"Multimodal,Language,Vision",32000000000.0,,,Korea (Republic of),,https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B
+epoch_ai,,MiniMax,2025-12-23,Language,229000000000.0,,,China,,https://huggingface.co/MiniMaxAI/MiniMax-M2.1
+epoch_ai,,Z.ai (Zhipu AI),2025-12-22,Language,358000000000.0,4.42e+24,,China,,https://z.ai/blog/glm-4.7
+epoch_ai,,OpenAI,2025-12-18,Language,,,,United States of America,,https://openai.com/index/introducing-gpt-5-2-codex/
+epoch_ai,,NVIDIA,2025-12-15,Language,31600000000.0,4.8e+23,,United States of America,,https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf
+epoch_ai,,OpenAI,2025-12-11,,,,,United States of America,,
+epoch_ai,,Google DeepMind,2025-12-04,3D modeling,,,,United States of America,,https://arxiv.org/abs/2512.04797v1
+epoch_ai,,DeepSeek,2025-11-27,Language,685000000000.0,,,China,,https://arxiv.org/abs/2511.22570
+epoch_ai,,Anthropic,2025-11-24,"Language,Multimodal,Vision",,,,United States of America,,https://www.anthropic.com/news/claude-opus-4-5
+epoch_ai,,Allen Institute for AI,2025-11-20,Language,32000000000.0,1.1e+24,,United States of America,,https://arxiv.org/abs/2512.13961
+epoch_ai,,Google DeepMind,2025-11-20,Image generation,,,,United States of America,,https://blog.google/innovation-and-ai/products/nano-banana-pro/
+epoch_ai,,xAI,2025-11-19,Language,,,,United States of America,,https://x.ai/news/grok-4-1-fast
+epoch_ai,,OpenAI,2025-11-19,Language,,,,United States of America,,https://openai.com/index/gpt-5-1-codex-max/
+epoch_ai,,Google DeepMind,2025-11-18,"Multimodal,Language,Vision",,,,United States of America,,https://blog.google/products/gemini/gemini-3/
+epoch_ai,,Physical Intelligence,2025-11-17,Robotics,5260000000.0,,,United States of America,,https://www.pi.website/download/pistar06.pdf
+epoch_ai,,Shanghai AI Lab,2025-11-17,Language,235000000000.0,,,China,,"https://arxiv.org/abs/2511.13612, https://github.com/PRIME-RL/P1"
+epoch_ai,,xAI,2025-11-17,Language,,,,United States of America,,https://x.ai/news/grok-4-1
+epoch_ai,,OpenAI,2025-11-13,"Multimodal,Language,Vision",,,,United States of America,,https://openai.com/index/gpt-5-1/
+epoch_ai,,OpenAI,2025-11-13,"Multimodal,Language,Vision",,,,United States of America,,https://openai.com/index/gpt-5-1/
+epoch_ai,,OpenAI,2025-11-12,Language,,,,United States of America,,
+epoch_ai,,Meta AI,2025-11-10,Recommendation,,,,United States of America,,https://engineering.fb.com/2025/11/10/ml-applications/metas-generative-ads-model-gem-the-central-brain-accelerating-ads-recommendation-ai-innovation/
+epoch_ai,,Moonshot,2025-11-06,Language,1000000000000.0,4.2e+24,,China,,https://moonshotai.github.io/Kimi-K2/thinking
+epoch_ai,,Alibaba,2025-10-28,Language,30500000000.0,,,China,,https://arxiv.org/abs/2510.24701
+epoch_ai,,MiniMax,2025-10-27,Language,229000000000.0,,,China,,https://www.minimax.io/news/minimax-m2
+epoch_ai,,Google DeepMind,2025-10-15,"Video,Vision",,,,United States of America,,https://blog.google/technology/ai/veo-updates-flow/
+epoch_ai,,Anthropic,2025-10-15,Language,,,,United States of America,,https://www.anthropic.com/news/claude-haiku-4-5
+epoch_ai,,Ant Group,2025-10-10,Language,1000000000000.0,6.000001e+24,,China,,https://huggingface.co/inclusionAI/Ling-1Thttps://arxiv.org/pdf/2510.22115
+epoch_ai,,OpenAI,2025-10-07,"Multimodal,Language,Vision",,,,United States of America,,https://cdn.openai.com/gpt-5-system-card.pdf
+epoch_ai,,OpenAI,2025-09-30,Video,,,,United States of America,,https://openai.com/index/sora-2/
+epoch_ai,,"Z.ai (Zhipu AI),Tsinghua University",2025-09-30,Language,357000000000.0,4.42e+24,,"China,China",,https://z.ai/blog/glm-4.6
+epoch_ai,,Anthropic,2025-09-29,"Language,Vision,Multimodal",,,,United States of America,,https://www.anthropic.com/news/claude-sonnet-4-5
+epoch_ai,,Google DeepMind,2025-09-25,"Vision,Language,Speech",,,,United States of America,,https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf
+epoch_ai,,Alibaba,2025-09-22,"Multimodal,Language,Vision,Speech,Video",35300000000.0,3.6e+22,,China,,https://arxiv.org/abs/2509.17765
+epoch_ai,,Alibaba,2025-09-16,Language,30000000000.0,6.5367e+23,,China,,https://arxiv.org/abs/2509.13310
+epoch_ai,,Alibaba,2025-09-05,Language,1000000000000.0,1.512e+25,,China,,https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&url=2840914_2&modelId=qwen3-max-previewhttps://qwen.ai/blog?id=87dc93fc8a590dc718c77e1f6e84c07b474f6c5a&from=home.latest-research-list
+epoch_ai,,Meituan Inc,2025-09-01,Language,560000000000.0,3.726e+24,,China,,https://arxiv.org/abs/2509.01322
+epoch_ai,,Google,2025-08-26,Image generation,,,,United States of America,,https://gemini.google/overview/image-generation/https://aistudio.google.com/models/gemini-2-5-flash-image
+epoch_ai,,OpenAI,2025-08-07,"Multimodal,Language,Vision",,,,United States of America,,https://cdn.openai.com/gpt-5-system-card.pdf
+epoch_ai,,OpenAI,2025-08-07,"Multimodal,Language,Vision",,,,United States of America,,https://cdn.openai.com/gpt-5-system-card.pdf
+epoch_ai,,OpenAI,2025-08-07,"Multimodal,Language,Vision",,6.6e+25,,United States of America,,https://cdn.openai.com/gpt-5-system-card.pdfhttps://openai.com/index/introducing-gpt-5/ 
+epoch_ai,,OpenAI,2025-08-05,Language,116830000000.0,4.94e+24,,United States of America,,https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf
+epoch_ai,,OpenAI,2025-08-05,Language,20910000000.0,5.49e+23,,United States of America,,https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf
+epoch_ai,,"Z.ai (Zhipu AI),Tsinghua University",2025-08-05,Language,355000000000.0,4.42e+24,,"China,China",,https://arxiv.org/abs/2508.06471
+epoch_ai,,Anthropic,2025-08-05,"Language,Multimodal,Vision",,,,United States of America,,https://www.anthropic.com/news/claude-opus-4-1
+epoch_ai,,Alibaba,2025-08-04,"Image generation,Vision",27000000000.0,,,China,,https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf
+epoch_ai,,Sapient Intelligence,2025-08-04,"Language,Vision,Multimodal",27000000.0,,,Singapore,,https://arxiv.org/abs/2506.21734
+epoch_ai,,Kunlun Inc.,2025-08-01,Language,72000000000.0,,,China,,https://github.com/SkyworkAI/MindLink/blob/main/mindlink.pdf
+epoch_ai,,"Google,Google DeepMind",2025-08-01,"Language,Multimodal,Vision,Video,Audio,Mathematics",,,,"United States of America,United States of America",,https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Deep-Think-Model-Card.pdfhttps://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
+epoch_ai,,Alibaba,2025-07-25,Language,235000000000.0,4.752e+24,,China,,https://qwenlm.github.io/blog/qwen3/
+epoch_ai,,Alibaba,2025-07-25,Language,235000000000.0,4.752e+24,,China,,https://qwenlm.github.io/blog/qwen3/
+epoch_ai,,Alibaba,2025-07-22,Language,480000000000.0,1.575e+24,,China,,https://qwenlm.github.io/blog/qwen3-coder/
+epoch_ai,,LG AI Research,2025-07-15,Language,32000000000.0,2.69000000000001e+24,,Korea (Republic of),,https://arxiv.org/abs/2507.11407
+epoch_ai,,Google DeepMind,2025-07-14,Language,,,,United States of America,,https://arxiv.org/abs/2503.07891
+epoch_ai,,Moonshot,2025-07-11,Language,1000000000000.0,2.976e+24,,China,,https://moonshotai.github.io/Kimi-K2/
+epoch_ai,,xAI,2025-07-10,Language,,,,United States of America,,https://x.ai/news/grok-4
+epoch_ai,,xAI,2025-07-09,"Language,Multimodal,Vision",3000000000000.0,5.0000000000001e+26,,United States of America,,https://x.ai/news/grok-4
+epoch_ai,,LG AI Research,2025-07-09,"Vision,Medicine",175000000.0,,,Korea (Republic of),,https://arxiv.org/abs/2507.06639
+epoch_ai,,Google DeepMind,2025-06-12,Earth science,720000000.0,9.618950880000001e+21,,United States of America,,https://arxiv.org/abs/2506.10772v1
+epoch_ai,,ByteDance,2025-06-11,"Multimodal,Language,Vision",230000000000.0,,,China,,https://seed.bytedance.com/en/blog/introduction-to-techniques-used-in-seed1-6
+epoch_ai,,Alibaba,2025-06-05,Language,8000000000.0,,,China,,https://arxiv.org/abs/2506.05176v1
+epoch_ai,,Google DeepMind,2025-06-05,"Language,Vision,Video,Multimodal,Speech",,,,United States of America,,https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking
+epoch_ai,,DeepSeek,2025-05-28,Language,671000000000.0,4.020010000000001e+24,,China,,https://api-docs.deepseek.com/news/news250120
+epoch_ai,,Anthropic,2025-05-22,"Language,Multimodal,Vision",,,,United States of America,,https://www.anthropic.com/claude/sonnethttps://www.anthropic.com/news/claude-4
+epoch_ai,,Anthropic,2025-05-22,"Language,Multimodal,Vision",,,,United States of America,,https://www.anthropic.com/claude/opushttps://www.anthropic.com/news/claude-4
+epoch_ai,,Google DeepMind,2025-05-21,"Video,Vision",,,,United States of America,,https://deepmind.google/models/veo/
+epoch_ai,,Google,2025-05-20,Image generation,,,,United States of America,,https://storage.googleapis.com/deepmind-media/Model-Cards/Imagen-4-Model-Card.pdf
+epoch_ai,,ByteDance,2025-05-11,"Vision,Language,Multimodal,Video",,1.388556e+24,,China,,https://arxiv.org/abs/2505.07062
+epoch_ai,,Google DeepMind,2025-05-06,"Language,Vision,Video,Multimodal,Speech",,,,United States of America,,https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking
+epoch_ai,,Alibaba,2025-04-29,Language,235000000000.0,4.752e+24,,China,,https://qwenlm.github.io/blog/qwen3/
+epoch_ai,,OpenAI,2025-04-23,"Image generation,Vision",,,,United States of America,,https://openai.com/index/image-generation-api/
+epoch_ai,,Huawei,2025-04-10,Language,135000000000.0,1.0692e+25,,China,,https://arxiv.org/abs/2504.07866
+epoch_ai,,Meta AI,2025-04-05,"Multimodal,Language,Vision",109000000000.0,4.08e+24,,United States of America,,https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+epoch_ai,,Meta AI,2025-04-05,"Multimodal,Language,Vision",400000000000.0,2.244000000001e+24,,United States of America,,https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+epoch_ai,,Meta AI,2025-04-05,"Multimodal,Language,Vision",2000000000000.0,5.18400000000001e+25,,United States of America,,https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+epoch_ai,,OpenAI,2025-03-27,"Multimodal,Language,Audio,Speech,Vision",,,,United States of America,,https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+epoch_ai,,Google DeepMind,2025-03-25,"Language,Vision,Video,Multimodal,Speech",,,,United States of America,,https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking
+epoch_ai,,DeepSeek,2025-03-24,Language,671000000000.0,3.3e+24,,China,,https://arxiv.org/abs/2412.19437
+epoch_ai,,"NVIDIA,University of Toronto,Vector Institute,University of Illinois Urbana-Champaign (UIUC)",2025-03-22,Video,1100000000.0,,,"United States of America,Canada,Canada,United States of America",,https://arxiv.org/abs/2501.18590
+epoch_ai,,OpenAI,2025-03-19,"Language,Mathematics,Multimodal",,,,United States of America,,https://openai.com/index/introducing-chatgpt-pro/
+epoch_ai,,LG AI Research,2025-03-16,Language,32000000000.0,1.26e+24,,Korea (Republic of),,https://arxiv.org/abs/2503.12524
+epoch_ai,,Baidu,2025-03-16,"Multimodal,Language,Vision,Video",424000000000.0,,,China,,https://www.datacamp.com/blog/ernie-4-5-x1https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf
+epoch_ai,,Tencent,2025-03-11,Language,560000000000.0,5.4e+24,,China,,https://web.archive.org/web/20250408105622/https://www.dapingtime.com/article/2171.htmlhttps://medium.com/data-science-in-your-pocket/tencent-hunyuan-turbo-s-the-fastest-reasoning-llm-d64a02bed5c8https://arxiv.org/abs/2505.15431
+epoch_ai,,Alibaba,2025-03-06,Language,32500000000.0,3.51e+24,,China,,https://qwenlm.github.io/blog/qwq-32b/
+epoch_ai,,Mistral AI,2025-03-06,"Multimodal,Vision,Language",,,,France,,https://mistral.ai/news/mistral-ocr
+epoch_ai,,Inception Labs,2025-02-27,Language,,,,United States of America,,https://machine-learning-made-simple.medium.com/is-the-mercury-llm-the-first-of-a-new-generation-of-llms-b64de1d36029https://www.inceptionlabs.ai/newshttps://www.inceptionlabs.ai/introducing-mercury-our-general-chat-model
+epoch_ai,,OpenAI,2025-02-27,"Language,Vision,Multimodal",,3.8e+26,,United States of America,,https://openai.com/index/introducing-gpt-4-5/
+epoch_ai,,Anthropic,2025-02-24,"Language,Vision,Multimodal",,3.35e+25,,United States of America,,https://www.anthropic.com/news/claude-3-7-sonnet
+epoch_ai,,xAI,2025-02-17,"Language,Vision,Multimodal",3000000000000.0,3.5e+26,,United States of America,,https://x.ai/blog/grok-3
+epoch_ai,,"Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute",2025-02-03,Mathematics,7000000000.0,,,"China,United States of America,China,China,China,China",,https://arxiv.org/abs/2502.01456
+epoch_ai,,OpenAI,2025-01-31,Language,,,,United States of America,,https://openai.com/index/openai-o3-mini/
+epoch_ai,,OpenAI,2025-01-29,"Multimodal,Language,Audio,Speech,Vision",,,,United States of America,,https://help.openai.com/en/articles/9624314-model-release-notes
+epoch_ai,,OpenAI,2025-01-23,"Vision,Language,Multimodal",,,,United States of America,,https://openai.com/index/computer-using-agent/
+epoch_ai,,Moonshot,2025-01-22,"Multimodal,Language,Vision",,,,China,,https://arxiv.org/abs/2501.12599v1
+epoch_ai,,ByteDance,2025-01-22,Language,,,,China,,https://team.doubao.com/zh/special/doubao_1_5_pro
+epoch_ai,,"NVIDIA,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)",2025-01-20,"Vision,Robotics,Language",8930000000.0,4.7156e+22,,"United States of America,China,China,Hong Kong,United States of America,United States of America",,arxiv.org/abs/2501.14818
+epoch_ai,,DeepSeek,2025-01-20,Language,671000000000.0,3.5e+24,,China,,https://api-docs.deepseek.com/news/news250120
+epoch_ai,,Prime Intellect,2025-01-17,Mathematics,7000000000.0,,,United States of America,,https://huggingface.co/PrimeIntellect/INTELLECT-MATHhttps://www.primeintellect.ai/blog/intellect-math
+epoch_ai,,"Stability AI,University of Illinois Urbana-Champaign (UIUC)",2025-01-08,3D modeling,,,,"United Kingdom of Great Britain and Northern Ireland,United States of America",,https://arxiv.org/abs/2501.04689
+epoch_ai,,"University of Southern California,Georgia Institute of Technology,Stanford University,NVIDIA",2024-12-31,3D modeling,100598707.0,,,"United States of America,United States of America,United States of America,United States of America",,https://arxiv.org/abs/2501.00602https://github.com/NVlabs/GaussianSTORMhttps://jiawei-yang.github.io/STORM
+epoch_ai,,DeepSeek,2024-12-24,Language,671000000000.0,3.3e+24,,China,,https://arxiv.org/abs/2412.19437
+epoch_ai,,OpenAI,2024-12-20,"Language,Vision,Multimodal",,,,United States of America,,https://openai.com/index/introducing-o3-and-o4-mini/
+epoch_ai,,Google DeepMind,2024-12-16,"Video,Vision",,,,United States of America,,https://deepmind.google/technologies/veo/veo-2/
+epoch_ai,,"Meta AI,Stanford University",2024-12-13,"Video,Language,Multimodal",7000000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2412.10360
+epoch_ai,,Google DeepMind,2024-12-11,"Language,Multimodal,Vision,Video,Audio",,,,United States of America,,https://deepmind.google/technologies/gemini/pro/
+epoch_ai,,OpenAI,2024-12-09,"Video,Vision",,,,United States of America,,https://openai.com/index/sora-is-here/
+epoch_ai,,LG AI Research,2024-12-09,Language,32000000000.0,1.25e+24,,Korea (Republic of),,https://arxiv.org/abs/2412.04862
+epoch_ai,,Meta AI,2024-12-06,Language,70000000000.0,6.8649768e+24,,United States of America,,https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_3/
+epoch_ai,,OpenAI,2024-12-05,"Language,Mathematics,Multimodal",,,,United States of America,,https://openai.com/index/introducing-chatgpt-pro/
+epoch_ai,,"NVIDIA,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,University of California San Diego,University of Washington,Tsinghua University",2024-12-05,"Vision,Language,Multimodal,Video",15000000000.0,,,"United States of America,United States of America,United States of America,United States of America,United States of America,China",,https://arxiv.org/abs/2412.04468
+epoch_ai,,ByteDance,2024-12-05,Image generation,2000000000.0,,,China,,https://arxiv.org/abs/2412.04431v1
+epoch_ai,,Amazon,2024-12-03,"Multimodal,Language,Video,Vision",,6.000010000000001e+24,,United States of America,,https://aws.amazon.com/es/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/https://assets.amazon.science/96/7d/0d3e59514abf8fdcfafcdc574300/nova-tech-report-20250317-0810.pdf
+epoch_ai,,NVIDIA,2024-11-25,"Multimodal,Language,Audio",2500000000.0,,,United States of America,,https://research.nvidia.com/publication/2024-11_fugatto-1-foundational-generative-audio-transformer-opus-1
+epoch_ai,,OpenAI,2024-11-20,"Multimodal,Language,Audio,Speech,Vision",,,,United States of America,,https://help.openai.com/en/articles/9624314-model-release-notes
+epoch_ai,,Suno,2024-11-19,Audio,,,,United States of America,,https://suno.com/blog/v4
+epoch_ai,,Mistral AI,2024-11-18,"Multimodal,Language,Vision",124000000000.0,,,France,,https://mistral.ai/news/pixtral-large/
+epoch_ai,,Moonshot,2024-11-16,"Mathematics,Language",,,,China,,https://web.archive.org/web/20250124103542/https://www.globaltimes.cn/page/202411/1323248.shtml
+epoch_ai,,Google DeepMind,2024-11-15,Language,,,,United States of America,,https://www.tomsguide.com/ai/google-gemini/google-drops-new-gemini-model-and-it-goes-straight-to-the-top-of-the-llm-leaderboard
+epoch_ai,,ByteDance,2024-11-11,Vision,,,,China,,https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/SeedEdit.pdfhttps://team.doubao.com/en/special/seededit
+epoch_ai,,Tencent,2024-11-06,Language,389000000000.0,3.49237e+24,,China,,https://arxiv.org/abs/2411.02265
+epoch_ai,,ByteDance,2024-10-28,Language,500000000000.0,2.505e+25,,China,,https://www.volcengine.com/docs/6360/1264663
+epoch_ai,,NVIDIA,2024-10-22,"Vision,Language",72000000000.0,3.0398181e+24,,United States of America,,https://arxiv.org/abs/2409.11402
+epoch_ai,,NVIDIA,2024-10-22,"Vision,Language",72000000000.0,3.02e+24,,United States of America,,https://arxiv.org/abs/2409.11402
+epoch_ai,,NVIDIA,2024-10-22,"Vision,Language",72000000000.0,3.02e+24,,United States of America,,https://arxiv.org/abs/2409.11402
+epoch_ai,,01.AI,2024-10-18,Language,,1.5e+24,,China,,https://www.lingyiwanwu.com/en https://platform.lingyiwanwu.com/
+epoch_ai,,Chai discovery,2024-10-15,Biology,,7.7605724e+21,,United States of America,,https://www.chaidiscovery.com/blog/introducing-chai-1https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2
+epoch_ai,,Tsinghua University,2024-10-10,Robotics,1200000000.0,4.06e+22,,China,,https://arxiv.org/abs/2410.07864
+epoch_ai,,Writer,2024-10-09,Language,150000000000.0,,,United States of America,,https://writer.com/engineering/actions-with-palmyra-x-004/
+epoch_ai,,ByteDance,2024-10-08,Robotics,230000000.0,,,China,,https://arxiv.org/abs/2410.06158v1
+epoch_ai,,Meta AI,2024-10-04,"Video,Vision",30000000000.0,1.65e+24,,United States of America,,https://ai.meta.com/static-resource/movie-gen-research-paper
+epoch_ai,,ByteDance,2024-09-24,"Video,Vision",,,,China,,https://pixeldance.io/ (LINK BROKEN)
+epoch_ai,,Meta AI,2024-09-24,"Multimodal,Vision,Language",10600000000.0,5.79e+23,,United States of America,,https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/
+epoch_ai,,China Telecom,2024-09-20,Language,115000000000.0,6.9e+24,,China,,https://huggingface.co/Tele-AI/TeleChat2-115B
+epoch_ai,,Alibaba,2024-09-19,Language,72700000000.0,7.8e+24,,China,,https://qwenlm.github.io/blog/qwen2.5/
+epoch_ai,,Alibaba,2024-09-19,Language,72700000000.0,7.8516e+24,,China,,https://qwenlm.github.io/blog/qwen2.5/
+epoch_ai,,"Tsinghua University,Tencent,Nanyang Technological University",2024-09-19,"Multimodal,Vision,3D modeling,Video,Language",34000000000.0,,,"China,China,Singapore",,https://arxiv.org/abs/2409.12961v1
+epoch_ai,,Alibaba,2024-09-17,Language,32500000000.0,3.51e+24,,China,,https://qwenlm.github.io/blog/qwen2.5/ 
+epoch_ai,,OpenAI,2024-09-12,"Language,Mathematics,Biology",,,,United States of America,,https://openai.com/index/introducing-openai-o1-preview/
+epoch_ai,,OpenAI,2024-09-12,Language,,,,United States of America,,https://openai.com/index/learning-to-reason-with-llms/
+epoch_ai,,DeepSeek,2024-09-06,Language,236000000000.0,1.7892e+24,,China,,https://huggingface.co/deepseek-ai/DeepSeek-V2.5
+epoch_ai,,Tencent,2024-09-05,Language,,,,China,,https://zhidx.com/p/442250.html
+epoch_ai,,Harrison.ai,2024-09-05,"Vision,Medicine,Language,Multimodal",,,,Australia,,https://harrison.ai/news/harrison-ai-launches-world-leading-ai-model-to-transform-healthcare/
+epoch_ai,,Google DeepMind,2024-09-05,Biology,,,,United States of America,,https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/AlphaProteo2024.pdf
+epoch_ai,,Inspur,2024-08-29,Language,,,,China,,https://encloud.inspur.com/hairuo/cp/index.htmlhttps://www.eguizhou.gov.cn/guiyang/2024-08/29/c_1016827.htm
+epoch_ai,,Z.ai (Zhipu AI),2024-08-29,Language,,,,China,,https://bigmodel.cn/dev/howuse/glm-4
+epoch_ai,,AI21 Labs,2024-08-22,Language,398000000000.0,,,Israel,,https://arxiv.org/abs/2408.12570https://www.ai21.com/blog/announcing-jamba-model-familyhttps://huggingface.co/ai21labs/AI21-Jamba-1.5-Large
+epoch_ai,,xAI,2024-08-13,"Language,Vision,Multimodal",,2.96e+25,,United States of America,,https://x.ai/blog/grok-2
+epoch_ai,,Google DeepMind,2024-08-07,Robotics,185000.0,,,United States of America,,https://deepmind.google/research/publications/107741/https://arxiv.org/abs/2408.03906
+epoch_ai,,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)",2024-08-06,"Multimodal,Vision,Language,Video",72000000000.0,3.036551985824e+24,,"China,Singapore,Hong Kong,Hong Kong",,https://arxiv.org/abs/2408.03326
+epoch_ai,,OpenAI,2024-08-06,"Multimodal,Language,Audio,Speech,Vision",,,,United States of America,,https://help.openai.com/en/articles/9624314-model-release-notes
+epoch_ai,,Apple,2024-07-29,Language,,4.3e+24,,United States of America,,https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models
+epoch_ai,,Apple,2024-07-29,Language,2730000000.0,4.5126e+23,,United States of America,,https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models
+epoch_ai,,Mistral AI,2024-07-24,Language,123000000000.0,2.13e+25,,France,,https://mistral.ai/news/mistral-large-2407/
+epoch_ai,,Meta AI,2024-07-23,Language,405000000000.0,3.8e+25,,United States of America,,https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
+epoch_ai,,OpenAI,2024-07-18,"Language,Multimodal,Vision",,,,United States of America,,https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+epoch_ai,,Mistral AI,2024-07-16,"Mathematics,Language",7000000000.0,,,France,,https://huggingface.co/mistralai/Mathstral-7B-v0.1https://mistral.ai/news/mathstral
+epoch_ai,,DeepL,2024-07-16,Language,,,,Germany,,https://www.deepl.com/en/blog/next-gen-language-model
+epoch_ai,,SenseTime,2024-07-06,"Multimodal,Language,Vision",600000000000.0,,,Hong Kong,,https://www.sensetime.com/en/news-detail/51168278?categoryId=1072
+epoch_ai,,Baidu,2024-06-28,"Multimodal,Language,Vision",,,,China,,https://www.reuters.com/technology/artificial-intelligence/baidu-launches-upgraded-ai-model-says-user-base-hits-300-mln-2024-06-28/
+epoch_ai,,"EvolutionaryScale,University of California (UC) Berkeley",2024-06-25,Biology,98500000000.0,1.07e+24,,"United States of America,United States of America",,https://www.evolutionaryscale.ai/blog/esm3-release 
+epoch_ai,,New York University (NYU),2024-06-24,"Multimodal,Vision,Language",34000000000.0,,,United States of America,,https://arxiv.org/abs/2406.16860
+epoch_ai,,Anthropic,2024-06-20,"Multimodal,Language,Vision",,2.700000000000001e+25,,United States of America,,https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf
+epoch_ai,,DeepSeek,2024-06-17,Language,236000000000.0,1.2852e+24,,China,,https://github.com/deepseek-ai/DeepSeek-Coder-V2
+epoch_ai,,NVIDIA,2024-06-14,Language,340000000000.0,1.8e+25,,United States of America,,https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/ 
+epoch_ai,,"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence",2024-06-13,"Robotics,Vision,Language",7188100000.0,1.1e+23,,"United States of America,United States of America,United States of America,United States of America,United States of America,United States of America",,https://openvla.github.io/https://arxiv.org/abs/2406.09246
+epoch_ai,,"NVIDIA,Meta AI",2024-06-12,Language,,7.929e+24,,"United States of America,United States of America",,https://catalog.ngc.nvidia.com/orgs/nim/teams/nvidia/containers/llama-3.1-nemotron-70b-instruct
+epoch_ai,,Alibaba,2024-06-07,Language,72710000000.0,3.02e+24,,China,,https://qwenlm.github.io/blog/qwen2/ https://arxiv.org/abs/2407.10671 
+epoch_ai,,Saudi Data and Artificial Intelligence Authority,2024-05-21,Language,70000000000.0,1.062e+24,,Saudi Arabia,,https://arxiv.org/abs/2407.15390
+epoch_ai,,"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",2024-05-20,Robotics,93000000.0,5.85e+20,,"United States of America,United States of America,United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/2405.12213 
+epoch_ai,,Z.ai (Zhipu AI),2024-05-20,Language,,,,China,,https://arxiv.org/abs/2406.12793
+epoch_ai,,01.AI,2024-05-13,Language,100000000000.0,1.8e+24,,China,,
+epoch_ai,,OpenAI,2024-05-13,"Multimodal,Language,Audio,Speech,Vision",,,,United States of America,,https://openai.com/index/hello-gpt-4o/ https://openai.com/index/gpt-4o-system-card/
+epoch_ai,,"Google DeepMind,Isomorphic Labs",2024-05-08,Biology,,4.1405645e+22,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://www.nature.com/articles/s41586-024-07487-w
+epoch_ai,,"NVIDIA,Massachusetts Institute of Technology (MIT)",2024-05-03,"Multimodal,Language,Vision,Video",13493916736.0,2.3003136e+21,,"United States of America,United States of America",,https://huggingface.co/Efficient-Large-Model/VILA1.5-13bhttps://github.com/NVlabs/VILA/tree/bbc609baf326b1b49b93450b48edc516db3737fc/scripts/v1_5/release/13bhttps://developer.nvidia.com/blog/visual-language-models-on-nvidia-hardware-with-vila/
+epoch_ai,,Google DeepMind,2024-05-01,Earth science,,8.169984e+20,,United States of America,,https://arxiv.org/abs/2312.15796
+epoch_ai,,Meta AI,2024-04-18,Language,70000000000.0,7.861e+24,,United States of America,,https://ai.meta.com/blog/meta-llama-3/
+epoch_ai,,Reka AI,2024-04-15,"Multimodal,Language,Vision,Video,Speech",67000000000.0,8.400010000000001e+24,,United States of America,,https://arxiv.org/abs/2404.12387
+epoch_ai,,OpenAI,2024-04-09,"Multimodal,Vision,Language,Image generation",,,,United States of America,,https://x.com/OpenAI/status/1778574613813006610
+epoch_ai,,Apple,2024-03-29,Language,3000000000.0,,,United States of America,,https://arxiv.org/abs/2403.20329
+epoch_ai,,Databricks,2024-03-27,Language,132000000000.0,2.6e+24,,United States of America,,https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
+epoch_ai,,Apple,2024-03-14,"Multimodal,Language,Vision",30000000000.0,4.86e+23,,United States of America,,https://arxiv.org/abs/2403.09611
+epoch_ai,,"Tsinghua University,Nanyang Technological University,Carnegie Mellon University (CMU)",2024-03-13,"Robotics,Vision,Video",,,,"China,Singapore,United States of America",,https://arxiv.org/abs/2403.08321https://guanxinglu.github.io/ManiGaussian/
+epoch_ai,,Inflection AI,2024-03-07,Language,,8.000001e+24,,United States of America,,https://inflection.ai/inflection-2-5
+epoch_ai,,Anthropic,2024-03-04,"Multimodal,Language,Vision",,,,United States of America,,https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
+epoch_ai,,Anthropic,2024-03-04,"Multimodal,Language,Vision",,,,United States of America,,https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
+epoch_ai,,Saudi Aramco,2024-03-04,Language,250000000000.0,1.05e+25,,Saudi Arabia,,https://www.offshore-technology.com/news/saudi-aramco-unveils-industry-first-generative-ai-model/
+epoch_ai,,Mistral AI,2024-02-26,Language,,1.12e+25,,France,,https://mistral.ai/news/mistral-large/
+epoch_ai,,"ByteDance,Peking University",2024-02-23,Language,530000000000.0,3.9e+24,,"China,China",,https://arxiv.org/abs/2402.15627
+epoch_ai,,Stability AI,2024-02-22,Image generation,8000000000.0,5.0000000000000004e+22,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2403.03206https://stability.ai/news/stable-diffusion-3
+epoch_ai,,OpenAI,2024-02-15,"Video,Vision",,,,United States of America,,https://openai.com/index/video-generation-models-as-world-simulators/
+epoch_ai,,Google DeepMind,2024-02-15,"Language,Multimodal",,,,United States of America,,https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
+epoch_ai,,"Cohere for AI,Brown University,Cohere,Carnegie Mellon University (CMU),Massachusetts Institute of Technology (MIT)",2024-02-12,Language,13000000000.0,,,"Canada,United States of America,Canada,United States of America,United States of America",,https://arxiv.org/abs/2402.07827
+epoch_ai,,Alibaba,2024-02-04,Language,72000000000.0,1.3e+24,,China,,https://qwenlm.github.io/blog/qwen1.5/
+epoch_ai,,Alibaba,2024-01-25,"Multimodal,Language,Vision",7000000000.0,,,China,,https://qwenlm.github.io/blog/qwen-vl/
+epoch_ai,,"Google DeepMind,New York University (NYU)",2024-01-17,Mathematics,151000000.0,,,"United States of America,United States of America",,https://www.nature.com/articles/s41586-023-06747-5
+epoch_ai,,Writer,2024-01-01,Language,72000000000.0,,,United States of America,,https://writer.com/llms/palmyra-x-003/
+epoch_ai,,Moonshot,2024-01-01,Language,,,,China,,https://www.53ai.com/news/LargeLanguageModel/2024101137012.html
+epoch_ai,,Tsinghua University,2023-12-29,"Mathematics,Language",12400000000.0,,,China,,https://arxiv.org/abs/2210.16257
+epoch_ai,,Google Research,2023-12-23,Language,11000000000.0,3.4912896e+22,,United States of America,,https://arxiv.org/abs/2305.13245
+epoch_ai,,rinna,2023-12-21,Language,14200000000.0,2.5562e+23,,Japan,,https://arxiv.org/abs/2404.01657
+epoch_ai,,Google DeepMind,2023-12-19,"Multimodal,Language,Vision,Audio",3250000000.0,,,United States of America,,https://arxiv.org/abs/2312.11805
+epoch_ai,,Google DeepMind,2023-12-19,"Multimodal,Language,Vision,Audio",1800000000.0,,,United States of America,,https://arxiv.org/abs/2312.11805
+epoch_ai,,Google DeepMind,2023-12-14,"Language,Search",15000000000.0,3.87e+23,,United States of America,,https://www.nature.com/articles/s41586-023-06924-6https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/
+epoch_ai,,"Tsinghua University,Z.ai (Zhipu AI)",2023-12-14,"Vision,Language",18000000000.0,6.707e+22,,"China,China",,https://arxiv.org/abs/2312.08914
+epoch_ai,,"NVIDIA,Massachusetts Institute of Technology (MIT)",2023-12-12,"Multimodal,Language,Vision",13350839296.0,2.3003136e+21,,"United States of America,United States of America",,https://arxiv.org/abs/2312.07533https://huggingface.co/Efficient-Large-Model/VILA-13b
+epoch_ai,,"Stanford University,Google Research,Georgia Institute of Technology",2023-12-11,Video,4719000000.0,,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2312.06662
+epoch_ai,,Mistral AI,2023-12-11,Language,46700000000.0,7.74e+23,,France,,"https://mistral.ai/news/mixtral-of-experts/, https://arxiv.org/abs/2401.04088"
+epoch_ai,,"Facebook,INRIA,University of California (UC) Berkeley",2023-12-08,"Speech,Language",2300000000.0,,,"United States of America,France,United States of America",,"https://arxiv.org/abs/2312.05187, https://huggingface.co/facebook/seamless-m4t-v2-large"
+epoch_ai,,Meta AI,2023-12-07,Language,7000000000.0,1.6e+23,,United States of America,,https://arxiv.org/abs/2312.06674
+epoch_ai,,Google DeepMind,2023-12-06,"Multimodal,Language,Vision",,5.0000000001e+25,,United States of America,,https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
+epoch_ai,,Google DeepMind,2023-12-06,"Multimodal,Language,Vision",,,,United States of America,,https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
+epoch_ai,,"Carnegie Mellon University (CMU),Princeton University",2023-12-01,Speech,23400000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2312.00752
+epoch_ai,,Alibaba,2023-11-30,Language,72000000000.0,1.3e+24,,China,,https://huggingface.co/Qwen/Qwen-72B
+epoch_ai,,Perplexity,2023-11-29,Language,70000000000.0,,,United States of America,,https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+epoch_ai,,Google DeepMind,2023-11-29,Materials science,16240000.0,,,United States of America,,https://www.nature.com/articles/s41586-023-06735-9
+epoch_ai,,Inflection AI,2023-11-22,Language,,1.001e+25,,United States of America,,https://inflection.ai/inflection-2
+epoch_ai,,Anthropic,2023-11-21,Language,,,,United States of America,,https://www.anthropic.com/index/claude-2-1
+epoch_ai,,Oppo Mobile Telecommunications,2023-11-16,Language,,,,China,,https://www.oppo.com/en/newsroom/press/2023-oppo-developers-conference-odc23/
+epoch_ai,,NVIDIA,2023-11-15,Language,8000000000.0,1.8e+23,,United States of America,,https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/nemotron-3-8b-base-4k
+epoch_ai,,Alibaba,2023-11-14,"Language,Speech,Audio",8460000000.0,,,China,,https://arxiv.org/abs/2311.07919
+epoch_ai,,Google DeepMind,2023-11-14,Earth science,,2.1000000000000002e+22,,United States of America,,https://www.science.org/doi/epdf/10.1126/science.adi2336https://arxiv.org/abs/2212.12794
+epoch_ai,,"Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG",2023-11-13,"Language,Multimodal,Vision",13000000000.0,4.56e+22,,"Korea (Republic of),Korea (Republic of),Korea (Republic of)",,https://arxiv.org/abs/2311.07362
+epoch_ai,,"Shanghai AI Lab,Chinese University of Hong Kong (CUHK),ShanghaiTech University",2023-11-13,"Vision,Language,Multimodal",19900000000.0,3.04e+22,,"China,Hong Kong,China",,https://arxiv.org/abs/2311.07575
+epoch_ai,,Zhuiyi Technology,2023-11-08,Language,110000000.0,2.162688e+18,,China,,https://arxiv.org/abs/2104.09864
+epoch_ai,,"Meta AI,Hebrew University of Jerusalem,LORIA",2023-11-08,"Audio,Speech",,2.6e+19,,"United States of America,Israel,France",,https://arxiv.org/abs/2308.02560
+epoch_ai,,TensorTour,2023-11-07,"Multimodal,Vision,Speech,Language,Video,3D modeling",,,,United States of America,,https://arxiv.org/abs/2311.05709v1
+epoch_ai,,Alibaba,2023-11-07,"Vision,Language,Multimodal",7120000000.0,,,China,,https://arxiv.org/abs/2311.04257
+epoch_ai,,OpenAI,2023-11-06,"Multimodal,Vision,Language,Image generation",,,,United States of America,,https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+epoch_ai,,"Tsinghua University,Z.ai (Zhipu AI),Beihang University",2023-11-06,"Multimodal,Vision,Language",17000000000.0,6.331e+22,,"China,China,China",,https://arxiv.org/abs/2311.03079https://huggingface.co/THUDM/cogvlm-chat-hfhttps://github.com/THUDM/CogVLM
+epoch_ai,,"University of Wisconsin Madison,Microsoft Research",2023-11-05,"Multimodal,Language,Vision",13000000000.0,7.807e+22,,"United States of America,United States of America",,"https://arxiv.org/abs/2310.03744,"
+epoch_ai,,xAI,2023-11-04,Language,314000000000.0,2.90000000001e+24,,United States of America,,"https://x.ai/model-card/, https://x.ai/blog/grok-os"
+epoch_ai,,"Google DeepMind,University of California San Diego,Stanford University",2023-11-03,Robotics,,,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2311.01977
+epoch_ai,,"University of Turku,Hugging Face",2023-11-03,Language,176000000000.0,,,"Finland,United States of America",,https://arxiv.org/abs/2311.05640
+epoch_ai,,01.AI,2023-11-02,Language,34000000000.0,6.1e+23,,China,,https://arxiv.org/abs/2403.04652
+epoch_ai,,Cohere,2023-11-02,Language,,,,Canada,,https://txt.cohere.com/introducing-embed-v3/
+epoch_ai,,Kunlun Inc.,2023-10-30,Language,13000000000.0,2.5e+23,,China,,https://arxiv.org/abs/2310.19341
+epoch_ai,,Z.ai (Zhipu AI),2023-10-27,"Multimodal,Language,Vision",6000000000.0,5.04e+22,,China,,https://www.zhipuai.cn/en/news/76https://huggingface.co/zai-org/chatglm3-6b
+epoch_ai,,"ETH Zurich,Disney Research",2023-10-26,Image generation,675000000.0,,,"Switzerland,United States of America,Switzerland",,https://arxiv.org/abs/2310.17347v2
+epoch_ai,,"Microsoft,Microsoft Research",2023-10-26,Language,75000000.0,7.92e+18,,"United States of America,United States of America",,https://arxiv.org/abs/2310.17680 (was withdrawn)https://www.microsoft.com/en-us/research/wp-content/uploads/2023/11/CodeFusion-Revised-CameraReady.pdf
+epoch_ai,,OpenAI,2023-10-19,Image generation,,,,United States of America,,https://cdn.openai.com/papers/dall-e-3.pdf
+epoch_ai,,"Google DeepMind,Google Research,Google Cloud",2023-10-17,"Multimodal,Language,Vision",5000000000.0,,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2310.09199
+epoch_ai,,Baidu,2023-10-17,"Multimodal,Language,Video,Image generation",,,,China,,https://www.prnewswire.com/news-releases/baidu-launches-ernie-4-0-foundation-model-leading-a-new-wave-of-ai-native-applications-301958681.html
+epoch_ai,,Google DeepMind,2023-10-13,Robotics,55000000000.0,,,United States of America,,https://arxiv.org/abs/2310.08864
+epoch_ai,,"Columbia University,Apple",2023-10-11,"Multimodal,Language,Vision",13000000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2310.07704
+epoch_ai,,"University of Washington,Seoul National University,University of Sheffield",2023-10-09,Biology,,2.14e+20,,"United States of America,Korea (Republic of),United Kingdom of Great Britain and Northern Ireland",,https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1
+epoch_ai,,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)",2023-10-07,Language,13000000000.0,1.6e+23,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2310.04793; https://github.com/AI4Finance-Foundation/FinGPT
+epoch_ai,,"Stanford University,Sony",2023-10-01,Image generation,,,,"United States of America,Japan",,https://arxiv.org/abs/2310.02279v1
+epoch_ai,,OpenAI,2023-09-28,Language,20000000000.0,,,United States of America,,https://platform.openai.com/docs/models/gpt-3.5-turbo
+epoch_ai,,Amazon,2023-09-28,"Language,Image generation",200000000000.0,4.8e+24,,United States of America,,https://aws.amazon.com/bedrock/titan/
+epoch_ai,,National University of Singapore,2023-09-27,Video,,,,Singapore,,https://arxiv.org/abs/2309.15818
+epoch_ai,,OpenAI,2023-09-25,"Multimodal,Vision,Language",,,,United States of America,,https://cdn.openai.com/papers/GPTV_System_Card.pdf
+epoch_ai,,Google DeepMind,2023-09-22,Biology,93000000.0,,,United States of America,,https://www.science.org/doi/10.1126/science.adg7492
+epoch_ai,,"Shanghai Qi Zhi institute,Stanford University,Carnegie Mellon University (CMU),Tsinghua University",2023-09-12,Robotics,500000.0,,,"China,United States of America,United States of America,China",,https://arxiv.org/abs/2309.05665
+epoch_ai,,Technology Innovation Institute,2023-09-06,Language,180000000000.0,3.76e+24,,United Arab Emirates,,https://falconllm.tii.ae/falcon-180b.html; https://arxiv.org/abs/2311.16867
+epoch_ai,,Intel Labs,2023-08-30,Robotics,56804.0,5.337e+16,,United States of America,,https://www.nature.com/articles/s41586-023-06419-4
+epoch_ai,,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42",2023-08-29,Language,13000000000.0,4.8946763e+22,,"United States of America,United Arab Emirates,United Arab Emirates",,https://arxiv.org/abs/2308.16149
+epoch_ai,,Carnegie Mellon University (CMU),2023-08-28,Biology,,4.9e+16,,United States of America,,https://arxiv.org/abs/2309.03099
+epoch_ai,,Alibaba,2023-08-24,"Multimodal,Language,Vision",9600000000.0,,,China,,https://arxiv.org/abs/2308.12966
+epoch_ai,,"Westlake University,Tsinghua University,Toyota Technological Institute at Chicago",2023-08-05,Biology,,7.56e+21,,"China,China,United States of America",,https://www.nature.com/articles/s42003-023-05133-1
+epoch_ai,,Google DeepMind,2023-07-28,Robotics,55000000000.0,,,United States of America,,https://arxiv.org/abs/2307.15818
+epoch_ai,,Google Research,2023-07-26,Audio,1500000000.0,3.9e+18,,United States of America,,https://arxiv.org/abs/2209.03143
+epoch_ai,,Meta AI,2023-07-18,Language,70000000000.0,8.1e+23,,United States of America,,https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/https://arxiv.org/abs/2307.09288
+epoch_ai,,Meta AI,2023-07-18,Language,7000000000.0,8.4e+22,,United States of America,,https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
+epoch_ai,,"Stanford University,Princeton University",2023-07-18,Language,2700000000.0,,,"United States of America,United States of America",,https://arxiv.org/pdf/2307.08691
+epoch_ai,,Anthropic,2023-07-11,Language,,3.866e+24,,United States of America,,"https://www.anthropic.com/index/claude-2, https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf"
+epoch_ai,,"Tsinghua University,BioMap Research",2023-07-06,Biology,100000000000.0,6.2e+23,,"China,China",,https://www.biorxiv.org/content/10.1101/2023.07.05.547496v4
+epoch_ai,,"Shanghai AI Lab,SenseTime",2023-07-06,Language,104000000000.0,9.984e+23,,"China,Hong Kong",,https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf
+epoch_ai,,Huawei,2023-07-05,Earth science,256000000.0,3.98e+22,,China,,"https://www.nature.com/articles/s41586-023-06185-3, https://www.huaweicloud.com/intl/en-us/news/20230707180809498.html,https://www.huawei.com/en/news/2023/7/pangu-ai-model-nature-publish"
+epoch_ai,,Stability AI,2023-07-04,Image generation,3400000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2307.01952
+epoch_ai,,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / UniversitÃ© de MontrÃ©al",2023-06-27,Biology,6600000.0,1.811e+21,,"United States of America,United States of America,Canada,Canada",,https://arxiv.org/abs/2306.15794
+epoch_ai,,Baidu,2023-06-27,Language,,,,China,,http://research.baidu.com/Blog/index-view?id=185
+epoch_ai,,OpenAI,2023-06-13,Language,20000000000.0,,,United States of America,,https://platform.openai.com/docs/models/gpt-3.5-turbo
+epoch_ai,,Meta AI,2023-06-08,Audio,3359000000.0,,,United States of America,,https://arxiv.org/abs/2306.05284
+epoch_ai,,Magic,2023-06-06,Language,,,,United States of America,,https://magic.dev/blog/ltm-1
+epoch_ai,,Google Research,2023-05-29,"Multimodal,Language,Vision,Video",55000000000.0,5.6e+23,,United States of America,,https://arxiv.org/abs/2305.18565
+epoch_ai,,"Stanford University,CZ Biohub Network",2023-05-29,Language,2800000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2305.18290
+epoch_ai,,National University of Singapore,2023-05-23,Language,7000000000.0,,,Singapore,,https://arxiv.org/abs/2305.14201
+epoch_ai,,Salesforce,2023-05-20,Language,16000000000.0,,,United States of America,,https://arxiv.org/abs/2305.07922
+epoch_ai,,"Alibaba,Huazhong University of Science and Technology",2023-05-18,"Multimodal,Vision,Speech,Language",4000000000.0,1.8e+20,,"China,China",,https://arxiv.org/abs/2305.11172v1
+epoch_ai,,"University of Minnesota,Grammarly",2023-05-17,Language,11000000000.0,,,"United States of America,United States of America",,"https://arxiv.org/abs/2305.09857, https://huggingface.co/grammarly/coedit-large"
+epoch_ai,,"Google Research,DeepMind",2023-05-16,"Medicine,Language",340000000000.0,,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/2305.09617
+epoch_ai,,"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University",2023-05-11,"Multimodal,Language,Vision",13000000000.0,1.94e+20,,"United States of America,Hong Kong,Singapore",,https://arxiv.org/abs/2305.06500
+epoch_ai,,Google,2023-05-10,Language,340000000000.0,7.34e+24,,United States of America,,https://arxiv.org/abs/2305.10403
+epoch_ai,,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich",2023-05-09,Language,15500000000.0,8.46e+22,,"United States of America,United States of America,United States of America,Canada,United States of America,United States of America,Germany,Germany,United Kingdom of Great Britain and Northern Ireland,United States of America,Singapore,Israel,Australia,Australia,Australia,Canada,United States of America,Canada,United States of America,Germany,United States of America,United States of America,Sweden,Germany,United States of America,United States of America,United States of America,India,India,Netherlands,Spain,United States of America,Israel,United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America,Germany",,https://arxiv.org/abs/2305.06161
+epoch_ai,,Meta AI,2023-05-09,"Multimodal,Vision,Audio,Language,Image generation,Speech",932000000.0,,,United States of America,,"https://arxiv.org/abs/2305.05665, https://github.com/facebookresearch/ImageBind"
+epoch_ai,,Google DeepMind,2023-04-26,Robotics,,,,United States of America,,https://arxiv.org/abs/2304.13653
+epoch_ai,,"University of Wisconsin Madison,Microsoft Research,Columbia University",2023-04-17,"Multimodal,Vision,Language",13000000000.0,7.8049e+22,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2304.08485
+epoch_ai,,"Facebook AI Research,INRIA",2023-04-14,Vision,1140000000.0,7.41851136e+21,,"United States of America,France,France",,https://arxiv.org/abs/2304.07193
+epoch_ai,,"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago",2023-04-09,Language,6700000000.0,3.00001e+21,,"United States of America,France,United States of America,United States of America,United States of America,United States of America",,https://arxiv.org/abs/2204.05999
+epoch_ai,,Meta AI,2023-04-05,Vision,636000000.0,7.8e+21,,United States of America,,https://arxiv.org/abs/2304.02643
+epoch_ai,,"Bloomberg,Johns Hopkins University",2023-03-30,Language,50558868480.0,2.36e+23,,"United States of America,United States of America",,https://arxiv.org/abs/2303.17564
+epoch_ai,,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab",2023-03-29,Video,1000000000.0,9.7e+21,,"China,China,China",,https://arxiv.org/abs/2303.16727v2
+epoch_ai,,Google DeepMind,2023-03-27,Vision,400000000.0,4.9467301e+21,,United States of America,,https://arxiv.org/abs/2303.15343
+epoch_ai,,Adobe,2023-03-21,Image generation,,,,United States of America,,https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Firefly-a-Family-of-new-Creative-Generative-AI/default.aspx
+epoch_ai,,Huawei Noah's Ark Lab,2023-03-20,Language,1085000000000.0,4.67e+23,,China,,https://arxiv.org/abs/2303.10845
+epoch_ai,,Runway,2023-03-20,Video,,,,United States of America,,https://research.runwayml.com/gen2
+epoch_ai,,"King Abdullah University of Science and Technology (KAUST),Karolinska Institute",2023-03-15,Biology,3007381000.0,,,"Saudi Arabia,Sweden",,https://www.biorxiv.org/content/10.1101/2023.03.14.532563v1.full.pdf
+epoch_ai,,OpenAI,2023-03-15,"Multimodal,Language,Vision",1800000000000.0,2.1e+25,,United States of America,,https://arxiv.org/abs/2303.08774
+epoch_ai,,OpenAI,2023-03-15,"Multimodal,Language,Vision",1800000000000.0,2.1e+25,,United States of America,,https://arxiv.org/abs/2303.08774
+epoch_ai,,Technology Innovation Institute,2023-03-15,Language,40000000000.0,2.4e+23,,United Arab Emirates,,https://arxiv.org/abs/2311.16867; https://www.tii.ae/news/abu-dhabi-based-technology-innovation-institute-introduces-falcon-llm-foundational-large
+epoch_ai,,Anthropic,2023-03-14,Language,,,,United States of America,,https://www.anthropic.com/index/introducing-claude
+epoch_ai,,"Google,TU Berlin",2023-03-06,"Robotics,Vision,Language",562000000000.0,,,"United States of America,Germany",,https://arxiv.org/abs/2303.03378
+epoch_ai,,"Meta AI,Hebrew University of Jerusalem",2023-03-05,Audio,1000000000.0,9.5e+21,,"United States of America,Israel",,https://arxiv.org/abs/2209.15352
+epoch_ai,,"New York University (NYU),University of California (UC) Berkeley",2023-03-02,Image generation,675000000.0,6e+20,,"United States of America,United States of America",,https://arxiv.org/abs/2212.09748
+epoch_ai,,Meta AI,2023-02-24,Language,65200000000.0,5.5e+23,,United States of America,,https://arxiv.org/abs/2302.13971
+epoch_ai,,"Google,University of California Los Angeles (UCLA)",2023-02-13,Vision,3070000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2302.06675v4
+epoch_ai,,Google,2023-02-10,Vision,21743000000.0,1.93248e+23,,United States of America,,https://arxiv.org/abs/2302.05442v1
+epoch_ai,,"University of California (UC) Berkeley,California Institute of Technology,University of Toronto,University of Wisconsin Madison,Texas A&M,NVIDIA,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2023-02-09,"Biology,Language",,,,"United States of America,United States of America,Canada,United States of America,United States of America,United States of America,Canada",,https://arxiv.org/abs/2302.04611
+epoch_ai,,Runway,2023-02-06,Video,,,,United States of America,,https://arxiv.org/abs/2302.03011
+epoch_ai,,Salesforce Research,2023-01-30,"Vision,Language",1480000000.0,1.20000000001e+21,,United States of America,,https://arxiv.org/abs/2301.12597
+epoch_ai,,Utrecht University,2023-01-27,Image generation,295000000.0,3.5e+20,,Netherlands,,https://arxiv.org/abs/2301.11706v3
+epoch_ai,,Google,2023-01-26,Audio,860000000.0,,,United States of America,,https://arxiv.org/abs/2301.11325
+epoch_ai,,"Technical University of Munich,Columbia University",2023-01-16,Biology,1900000000.0,6.5e+21,,"Germany,United States of America",,https://arxiv.org/abs/2301.06568
+epoch_ai,,"NVIDIA,Technical University of Munich,InstaDeep",2023-01-15,Biology,2500000000.0,8.08e+21,,"United States of America,Germany,United Kingdom of Great Britain and Northern Ireland",,https://www.biorxiv.org/content/10.1101/2023.01.11.523679v1.full.pdf
+epoch_ai,,"DeepMind,University of Toronto",2023-01-10,Games,200000000.0,2.2032e+20,,"United Kingdom of Great Britain and Northern Ireland,Canada",,https://arxiv.org/abs/2301.04104v1
+epoch_ai,,Microsoft,2023-01-05,"Audio,Speech",353000000.0,1.01e+19,,United States of America,,https://arxiv.org/abs/2301.02111
+epoch_ai,,"Stanford University,University at Buffalo",2022-12-28,Language,2700000000.0,6.48e+21,,"United States of America,United States of America",,https://arxiv.org/abs/2212.14052
+epoch_ai,,University of Oxford,2022-12-19,Biology,86000000.0,2.9e+19,,United Kingdom of Great Britain and Northern Ireland,,https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1.full.pdf
+epoch_ai,,Google,2022-12-13,Robotics,35000000.0,,,United States of America,,https://arxiv.org/abs/2212.06817
+epoch_ai,,"University of Oxford,Harvard Medical School",2022-12-10,Biology,,,,"United Kingdom of Great Britain and Northern Ireland,United States of America",,https://www.biorxiv.org/content/10.1101/2022.12.07.519495v1
+epoch_ai,,"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney",2022-12-04,Language,6000000000.0,7.76e+22,,"China,China,Singapore,United States of America,China,Australia",,https://arxiv.org/abs/2212.01853
+epoch_ai,,DeepMind,2022-12-01,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://www.science.org/stoken/author-tokens/ST-887/full
+epoch_ai,,"Korea Advanced Institute of Science and Technology (KAIST),NAVER",2022-11-28,Image generation,,,,"Korea (Republic of),Korea (Republic of)",,https://arxiv.org/abs/2211.17091v4
+epoch_ai,,"Korea Advanced Institute of Science and Technology (KAIST),NAVER",2022-11-28,Image generation,,2.1570000001e+20,,"Korea (Republic of),Korea (Republic of)",,https://arxiv.org/abs/2211.17091v4
+epoch_ai,,Beijing Academy of Artificial Intelligence / BAAI,2022-11-28,Language,335000000.0,,,China,,https://github.com/FlagAI-Open/FlagAI/blob/master/examples/ALM/README.md
+epoch_ai,,Meta AI,2022-11-22,Games,,,,United States of America,,https://www.science.org/doi/10.1126/science.ade9097
+epoch_ai,,"Alibaba,University of Waterloo,Vector Institute",2022-11-20,Image generation,1500000000.0,5.1e+20,,"China,Canada,Canada",,https://arxiv.org/abs/2211.10950
+epoch_ai,,Samsung,2022-11-18,Language,330000000.0,1.3e+20,,Korea (Republic of),,https://arxiv.org/abs/2211.10147
+epoch_ai,,Meta AI,2022-11-16,"Language,Biology",120000000000.0,3.24e+23,,United States of America,,https://arxiv.org/abs/2211.09085
+epoch_ai,,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University (ZJU),Beijing Institute of Technology",2022-11-14,Vision,1011000000.0,1.501e+22,,"China,China,China,China",,https://arxiv.org/abs/2211.07636
+epoch_ai,,Beijing Academy of Artificial Intelligence / BAAI,2022-11-12,"Multimodal,Language,Vision",,,,China,,https://arxiv.org/abs/2211.06679
+epoch_ai,,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)",2022-11-10,Vision,1080000000.0,2.408e+21,,"China,China,China,Hong Kong,Hong Kong",,https://arxiv.org/abs/2211.05778
+epoch_ai,,"Hugging Face,BigScience",2022-11-03,Language,13000000000.0,,,"United States of America,France",,https://arxiv.org/abs/2211.01786
+epoch_ai,,DeepMind,2022-11-03,Language,35000000.0,1.4e+17,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2211.01848
+epoch_ai,,NVIDIA,2022-11-02,Image generation,9100000000.0,5.46e+19,,United States of America,,https://arxiv.org/abs/2211.01324
+epoch_ai,,Meta AI,2022-10-24,Audio,,,,United States of America,,"https://arxiv.org/abs/2210.13438, "
+epoch_ai,,Google,2022-10-20,Language,540000000000.0,2.53e+24,,United States of America,,https://arxiv.org/abs/2210.11399
+epoch_ai,,"Google,University of Illinois Urbana-Champaign (UIUC)",2022-10-20,Language,540000000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2210.11610
+epoch_ai,,Google,2022-10-20,Language,540000000000.0,2.540000000001e+24,,United States of America,,https://arxiv.org/abs/2210.11416
+epoch_ai,,"University of Chicago,NVIDIA,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology",2022-10-11,Biology,25000000000.0,1.42e+21,,"United States of America,United States of America,United States of America,United States of America,Germany,United States of America",,https://www.biorxiv.org/content/biorxiv/early/2022/10/11/2022.10.10.511571.full.pdf
+epoch_ai,,"Meta AI,Massachusetts Institute of Technology (MIT)",2022-10-11,Games,,,,"United States of America,United States of America",,https://arxiv.org/abs/2210.05492
+epoch_ai,,"University College London (UCL),University of Michigan,Google Brain",2022-10-05,Video,1800000000.0,,,"United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America",,https://arxiv.org/abs/2210.02399
+epoch_ai,,DeepMind,2022-10-05,"Other,Games,Mathematics",,7.1414784e+20,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/s41586-022-05172-4
+epoch_ai,,Massachusetts Institute of Technology (MIT),2022-10-04,Biology,20240000.0,7.2e+19,,United States of America,,"https://arxiv.org/abs/2210.01776, https://docs.nvidia.com/bionemo-framework/latest/models/diffdock.html"
+epoch_ai,,Meta AI,2022-09-29,Video,,,,United States of America,,https://arxiv.org/abs/2209.14792
+epoch_ai,,OpenAI,2022-09-21,Speech,1550000000.0,4.2072663e+21,,United States of America,,https://cdn.openai.com/papers/whisper.pdfhttps://arxiv.org/abs/2212.04356
+epoch_ai,,"Saudi Data and Artificial Intelligence Authority,Saudi Company for Artificial Intelligence",2022-09-14,"Speech,Audio",,,,"Saudi Arabia,Saudi Arabia",,https://globalaisummit.org/en/News/Pages/NewsDetails.aspx?NewsId=73https://saudigazette.com.sa/article/624984/SAUDI-ARABIA/SDAIA-SCAI-unveil-SauTech-speech-to-text-software
+epoch_ai,,Google,2022-09-14,"Language,Vision,Multimodal",16900000000.0,1.69e+23,,United States of America,,https://arxiv.org/abs/2209.06794v4
+epoch_ai,,Microsoft,2022-08-22,"Multimodal,Vision,Language",1900000000.0,7e+19,,United States of America,,https://arxiv.org/abs/2208.10442
+epoch_ai,,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2022-08-10,Language,175000000000.0,4.3e+23,,"Canada,United States of America,Canada",,"https://arxiv.org/abs/2208.03188, https://github.com/facebookresearch/ParlAI/blob/main/parlai/zoo/bb3/model_card.mdtraining code: https://parl.ai/projects/bb3/ "
+epoch_ai,,Tsinghua University,2022-08-04,Language,130000000000.0,3.5490054945e+23,,China,,https://arxiv.org/abs/2210.02414
+epoch_ai,,Amazon,2022-08-02,Language,19750000000.0,2.04374016e+23,,United States of America,,https://arxiv.org/abs/2208.01448
+epoch_ai,,"Massachusetts Institute of Technology (MIT),Westlake University",2022-07-22,Biology,670000000.0,1.03514112e+22,,"United States of America,China",,https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1
+epoch_ai,,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",2022-07-21,Biology,15000000000.0,7.35000000001e+22,,"United States of America,United States of America,United States of America,United States of America",,https://www.science.org/doi/abs/10.1126/science.ade2574https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2
+epoch_ai,,"Hugging Face,BigScience",2022-07-11,Language,176247271424.0,3.65664e+23,,"United States of America,France",,https://arxiv.org/abs/2211.05100
+epoch_ai,,Meta AI,2022-07-06,Language,54500000000.0,1.751113728e+22,,United States of America,,https://research.facebook.com/publications/no-language-left-behind/
+epoch_ai,,Salesforce,2022-07-05,Language,770000000.0,2.72e+21,,United States of America,,https://arxiv.org/abs/2207.01780
+epoch_ai,,Google,2022-06-29,Language,540350000000.0,2.7415e+24,,United States of America,,https://arxiv.org/abs/2206.14858
+epoch_ai,,"Salesforce Research,Columbia University,Johns Hopkins University",2022-06-27,Biology,6400000000.0,1.35e+22,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2206.13517
+epoch_ai,,Google Research,2022-06-22,Image generation,20000000000.0,5.09607936e+23,,United States of America,,https://arxiv.org/abs/2206.10789v1
+epoch_ai,,Google Research,2022-06-14,Vision,2100000000.0,7.3e+22,,United States of America,,https://arxiv.org/abs/2205.01917v2
+epoch_ai,,Microsoft Research,2022-06-13,"Multimodal,Language,Vision",,,,United States of America,,https://arxiv.org/abs/2206.06336v1
+epoch_ai,,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)",2022-06-06,Language,750000000.0,3.31776e+18,,"China,United States of America,China,Hong Kong",,https://arxiv.org/abs/2206.02369
+epoch_ai,,"UT Austin,Microsoft",2022-06-05,Image generation,,,,"United States of America,United States of America",,https://arxiv.org/abs/2206.02262v4
+epoch_ai,,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",2022-05-29,Video,9400000000.0,,,"China,China",,https://arxiv.org/abs/2205.15868
+epoch_ai,,"University of Oxford,Harvard Medical School,Cohere",2022-05-27,Biology,700000000.0,7.24e+21,,"United Kingdom of Great Britain and Northern Ireland,United States of America,Canada",,https://arxiv.org/abs/2205.13760
+epoch_ai,,"Stanford University,University at Buffalo",2022-05-27,Language,355000000.0,8.9280922e+20,,"United States of America,United States of America",,https://arxiv.org/abs/2205.14135
+epoch_ai,,Google Brain,2022-05-23,Image generation,7762000000.0,1.46e+22,,United States of America,,https://arxiv.org/abs/2205.11487
+epoch_ai,,"Princeton University,Tsinghua University",2022-05-18,Language,,,,"United States of America,China",,https://arxiv.org/abs/2104.08821
+epoch_ai,,DeepMind,2022-05-12,"Multimodal,Robotics,Games,Language",1180000000.0,4.02e+21,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2205.06175
+epoch_ai,,"Google Research,Google Brain",2022-05-10,Language,20000000000.0,1.2e+23,,"United States of America,United States of America",,https://arxiv.org/abs/2205.05131v1
+epoch_ai,,Microsoft,2022-05-04,Language,418000000.0,,,United States of America,,https://arxiv.org/abs/2112.03254v3
+epoch_ai,,Meta AI,2022-05-02,Language,175000000000.0,4.3e+23,,United States of America,,https://arxiv.org/abs/2205.01068
+epoch_ai,,DeepMind,2022-04-29,"Multimodal,Vision,Language,Video",80000000000.0,2.18972000000001e+23,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2204.14198
+epoch_ai,,Google Research,2022-04-14,Image generation,,,,United States of America,,https://arxiv.org/abs/2101.04702
+epoch_ai,,Meta AI,2022-04-14,Language,9410000000.0,5.32224e+20,,United States of America,,https://arxiv.org/abs/2203.06850
+epoch_ai,,"Runway,Ludwig Maximilian University of Munich,Heidelberg University",2022-04-13,Image generation,1450000000.0,5.0000000000000004e+22,,"United States of America,Germany,Germany",,https://arxiv.org/abs/2112.10752
+epoch_ai,,Waseda University,2022-04-07,Biology,110000000.0,1.4e+20,,Japan,,https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac023/6564689
+epoch_ai,,OpenAI,2022-04-06,Image generation,3500000000.0,3.3695784e+23,,United States of America,,https://cdn.openai.com/papers/dall-e-2.pdf
+epoch_ai,,Google Research,2022-04-04,Language,540350000000.0,2.5272e+24,,United States of America,,https://arxiv.org/abs/2204.02311
+epoch_ai,,DeepMind,2022-03-29,Language,70000000000.0,5.76e+23,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2203.15556
+epoch_ai,,Meta AI,2022-03-24,Image generation,4000000000.0,6.4172851e+21,,United States of America,,https://arxiv.org/abs/2203.13131
+epoch_ai,,"Microsoft Research,University of Waterloo",2022-03-21,Language,256999999.99999997,2.65e+19,,"United States of America,Canada",,https://arxiv.org/abs/2203.10692
+epoch_ai,,OpenAI,2022-03-15,Language,,2.578e+24,,United States of America,,https://platform.openai.com/docs/models/gpt-3-5
+epoch_ai,,"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University",2022-03-10,Vision,1843000000.0,3.4e+21,,"United States of America,United States of America,United States of America,United States of America,Israel",,https://arxiv.org/abs/2203.05482v3
+epoch_ai,,Collaborations Pharmaceuticals,2022-03-07,Medicine,,,,United States of America,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9544280/
+epoch_ai,,OpenAI,2022-03-02,"Language,Mathematics",774000000.0,1.7901648e+22,,United States of America,,https://arxiv.org/abs/2202.01344
+epoch_ai,,Microsoft Research,2022-03-01,Language,3200000000.0,,,United States of America,,https://arxiv.org/abs/2203.00555
+epoch_ai,,Carnegie Mellon University (CMU),2022-02-26,Language,2700000000.0,1.1e+21,,United States of America,,https://arxiv.org/abs/2202.13169
+epoch_ai,,"NVIDIA,NERSC, Lawrence Berkeley National Laboratory,University of Michigan,Rice University,California Institute of Technology,Purdue University",2022-02-22,Earth science,,3.4504704e+20,,"United States of America,United States of America,United States of America,United States of America,United States of America,United States of America",,https://arxiv.org/abs/2202.11214
+epoch_ai,,"Google,Google Brain,Google Research",2022-02-17,Language,269000000000.0,2.9e+23,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2202.08906v2
+epoch_ai,,Midjourney,2022-02-15,Image generation,,,,United States of America,,
+epoch_ai,,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading",2022-02-10,Biology,16000000.0,6.5e+19,,"Israel,Israel,United States of America",,https://academic.oup.com/bioinformatics/article/38/8/2102/6502274
+epoch_ai,,Google,2022-02-10,Language,137000000000.0,3.55e+23,,United States of America,,https://arxiv.org/abs/2201.08239
+epoch_ai,,EleutherAI,2022-02-09,Language,20000000000.0,9.31627008e+22,,United States of America,,https://arxiv.org/abs/2204.06745
+epoch_ai,,Google Research,2022-02-08,Image generation,227000000.0,,,United States of America,,https://arxiv.org/abs/2202.04200
+epoch_ai,,DeepMind,2022-02-07,Language,7500000000.0,1.68e+22,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2112.04426
+epoch_ai,,DeepMind,2022-02-02,Language,41100000000.0,2.38010000000001e+23,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2203.07814
+epoch_ai,,OpenAI,2022-01-27,Language,175000000000.0,3.19181e+23,,United States of America,,https://arxiv.org/pdf/2203.02155
+epoch_ai,,OpenAI,2022-01-27,Language,6000000000.0,,,United States of America,,https://arxiv.org/abs/2203.02155
+epoch_ai,,OpenAI,2022-01-27,Language,1300000000.0,,,United States of America,,https://arxiv.org/abs/2203.02155
+epoch_ai,,Zhejiang University (ZJU),2022-01-23,"Biology,Language",420000000.0,,,China,,https://openreview.net/pdf?id=yfe1VMYAXa4
+epoch_ai,,University of Oxford,2022-01-22,Biology,355000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
+epoch_ai,,Meta AI,2022-01-20,Vision,705134592.0,,,United States of America,,https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/
+epoch_ai,,Meta AI,2022-01-20,Speech,705134592.0,,,United States of America,,https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/
+epoch_ai,,Meta AI,2022-01-20,Language,705134592.0,,,United States of America,,https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/
+epoch_ai,,"Meta AI,University of Texas at Austin",2022-01-07,Vision,88000000.0,2.34399744e+19,,"United States of America,United States of America",,https://arxiv.org/abs/2201.02605
+epoch_ai,,Baidu,2021-12-31,"Multimodal,Image generation,Vision,Language",10000000000.0,,,China,,https://arxiv.org/abs/2112.15283
+epoch_ai,,"Baidu,Peng Cheng Laboratory",2021-12-23,Language,260000000000.0,1.0421e+24,,"China,China",,https://arxiv.org/abs/2112.12731
+epoch_ai,,"Meta AI,Facebook AI Research",2021-12-20,Language,7500000000.0,2.25e+22,,"United States of America,United States of America,France",,https://arxiv.org/abs/2112.10668
+epoch_ai,,"Heidelberg University,Runway",2021-12-20,Image generation,1450000000.0,,,"Germany,United States of America",,https://arxiv.org/abs/2112.10752
+epoch_ai,,"Meta AI,University College London (UCL),PSL University,UniversitÃ© Grenoble Alpes",2021-12-16,Language,110000000.0,1.57e+20,,"United States of America,United Kingdom of Great Britain and Northern Ireland,France,France",,https://arxiv.org/abs/2112.09118
+epoch_ai,,Google Research,2021-12-15,Language,3000000000.0,,,United States of America,,https://arxiv.org/abs/2112.07916
+epoch_ai,,Google,2021-12-13,Language,1200000000000.0,3.6363112434e+23,,United States of America,,https://arxiv.org/abs/2112.06905
+epoch_ai,,DeepMind,2021-12-08,Language,280000000000.0,6.31e+23,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2112.11446
+epoch_ai,,DeepMind,2021-12-06,Games,,3.6679273004682866e+22,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2112.03178
+epoch_ai,,Microsoft,2021-12-03,Language,5400000000.0,,,United States of America,,https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/news/Microsoft-Turing-NLRv5-achieves-new-performance-milestones-37207301/https://www.microsoft.com/en-us/research/blog/efficiently-and-effectively-scaling-up-language-model-pretraining-for-best-language-representation-model-on-glue-and-superglue/
+epoch_ai,,"Microsoft Research,Peking University",2021-11-24,"Multimodal,Vision,Image generation,Video,Language",870000000.0,7.24598784e+21,,"United States of America,China",,https://arxiv.org/abs/2111.12417
+epoch_ai,,Microsoft,2021-11-22,Vision,893000000.0,4.831e+22,,United States of America,,https://arxiv.org/abs/2111.11432v1
+epoch_ai,,Google,2021-11-19,Vision,3070000000.0,4.12e+22,,United States of America,,https://arxiv.org/abs/2111.10050
+epoch_ai,,Microsoft Research Asia,2021-11-18,"Vision,Video",3000000000.0,1.1e+21,,China,,https://arxiv.org/abs/2111.09883v2
+epoch_ai,,Google Research,2021-11-15,Vision,3005000000.0,,,United States of America,,https://arxiv.org/abs/2111.07991v3
+epoch_ai,,Facebook AI Research,2021-11-11,Vision,632000000.0,4.6e+20,,"United States of America,France",,https://arxiv.org/abs/2111.06377
+epoch_ai,,Heidelberg University,2021-11-01,Image generation,,1.05e+19,,Germany,,https://proceedings.neurips.cc/paper/2021/hash/9219adc5c42107c4911e249155320648-Abstract.html
+epoch_ai,,"Salesforce,Nanyang Technological University",2021-11-01,Language,220000000.0,1.56e+21,,"United States of America,Singapore",,https://aclanthology.org/2021.emnlp-main.685/
+epoch_ai,,Stanford University,2021-10-31,Language,249000000.00000003,7.8328627e+19,,United States of America,,https://arxiv.org/abs/2111.00396
+epoch_ai,,"Tsinghua University,University of California (UC) Berkeley,Shanghai Qi Zhi institute",2021-10-30,Games,,,,"China,United States of America,China",,https://arxiv.org/abs/2111.00210
+epoch_ai,,"Harvard Medical School,University of Oxford",2021-10-27,Biology,15010300.0,,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://www.nature.com/articles/s41586-021-04043-8#change-history
+epoch_ai,,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University (ZJU)",2021-10-17,Language,274000000.0,5.2587456e+19,,"China,China,Singapore,China",,https://arxiv.org/abs/2110.08743
+epoch_ai,,Inspur,2021-10-12,Language,245730000000.0,3.5380000000001e+23,,China,,https://arxiv.org/abs/2110.04725
+epoch_ai,,"Microsoft,NVIDIA",2021-10-11,Language,530000000000.0,8.586e+23,,"United States of America,United States of America",,https://arxiv.org/abs/2201.11990
+epoch_ai,,"Google DeepMind,DeepMind",2021-10-04,Biology,,4.35e+21,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1
+epoch_ai,,Microsoft,2021-09-28,Language,2200000000.0,2.8983951e+22,,United States of America,,https://www.microsoft.com/en-us/research/blog/microsoft-turing-universal-language-representation-model-t-ulrv5-tops-xtreme-leaderboard-and-trains-100x-faster/
+epoch_ai,,"Beihang University,Microsoft Research Asia",2021-09-21,Vision,558000000.0,,,"China,China",,https://arxiv.org/abs/2109.10282
+epoch_ai,,Baidu,2021-09-20,Language,11000000000.0,9.9e+21,,China,,https://arxiv.org/abs/2109.09519
+epoch_ai,,NAVER,2021-09-10,Language,204000000000.0,2.0000000001e+23,,Korea (Republic of),,https://aibusiness.com/nlp/south-korea-s-naver-unveils-hyperscale-ai-platform-language-model-with-more-parameters-than-gpt-3
+epoch_ai,,Peking University,2021-09-06,Language,149697024.0,2.775e+18,,China,,https://arxiv.org/abs/2109.02377
+epoch_ai,,Microsoft,2021-09-04,"Search,Language",135000000000.0,,,United States of America,,https://www.microsoft.com/en-us/research/blog/make-every-feature-binary-a-135b-parameter-sparse-neural-network-for-massively-improved-search-relevance/
+epoch_ai,,Google Research,2021-09-03,Language,137000000000.0,2.047e+24,,United States of America,,https://arxiv.org/abs/2109.01652
+epoch_ai,,Facebook AI Research,2021-08-17,Language,10700000000.0,3.366e+22,,"United States of America,France",,https://arxiv.org/abs/2105.00572
+epoch_ai,,Northeastern University,2021-08-15,Biology,110000000.0,1.07e+20,,United States of America,,https://academic.oup.com/bioinformatics/article/37/15/2112/6128680
+epoch_ai,,"Chinese Academy of Sciences,Wuhan AI Computing Center",2021-08-11,"Multimodal,Speech,Vision,Language",3200000000.0,8.016e+20,,"China,China",,https://gitee.com/zidongtaichu/multi-modal-models
+epoch_ai,,AI21 Labs,2021-08-11,Language,178000000000.0,3.7e+23,,Israel,,https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf
+epoch_ai,,"Google Brain,Massachusetts Institute of Technology (MIT)",2021-08-07,Speech,1000000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2108.06209v2
+epoch_ai,,Megvii Inc,2021-08-06,Vision,99100000.0,6.34275e+20,,China,,https://arxiv.org/abs/2107.08430
+epoch_ai,,"Facebook AI Research,Georgia Institute of Technology",2021-08-03,Robotics,5000000.0,,,"United States of America,France,United States of America",,https://openaccess.thecvf.com/content/ICCV2021/html/Ye_Auxiliary_Tasks_and_Exploration_Enable_ObjectGoal_Navigation_ICCV_2021_paper.htmlhttps://arxiv.org/abs/2104.04112
+epoch_ai,,"Facebook AI Research,INRIA",2021-07-29,Vision,1300000000.0,1.8e+22,,"United States of America,France,France",,https://arxiv.org/abs/2103.01988
+epoch_ai,,Facebook AI Research,2021-07-27,Speech,1000000000.0,5.54e+21,,"United States of America,France",,https://arxiv.org/abs/2106.07447
+epoch_ai,,DeepMind,2021-07-27,Games,3472816.0,2.412e+22,,United Kingdom of Great Britain and Northern Ireland,,https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-playhttps://arxiv.org/abs/2107.12808
+epoch_ai,,OpenAI,2021-07-07,Language,12000000000.0,7.344e+22,,United States of America,,https://openai.com/blog/openai-codex/https://arxiv.org/abs/2107.03374
+epoch_ai,,Baidu,2021-07-05,Language,10000000000.0,2.25e+22,,China,,https://arxiv.org/abs/2107.02137
+epoch_ai,,"Microsoft Research Asia,Soochow University",2021-06-28,Language,247000000.00000003,8.58e+19,,"China,Taiwan",,https://arxiv.org/abs/2106.14448
+epoch_ai,,"IBM,Texas A&M",2021-06-24,Biology,12427904.0,1.4e+17,,"United States of America,United States of America",,https://arxiv.org/abs/2106.13058
+epoch_ai,,"Google,Google Brain",2021-06-23,Vision,208000000.0,9.56e+19,,"United States of America,United States of America",,https://arxiv.org/abs/2104.00298
+epoch_ai,,"NVIDIA,Aalto University",2021-06-21,Image generation,2230000.0,1.70208e+21,,"United States of America,Finland",,https://arxiv.org/abs/2106.12423
+epoch_ai,,"NVIDIA,Aalto University",2021-06-21,Image generation,1580000.0,2.42784e+21,,"United States of America,Finland",,https://arxiv.org/pdf/2106.12423
+epoch_ai,,University of California (UC) Berkeley,2021-06-11,Vision,256000000.0,7.840125000000001e+19,,United States of America,,https://arxiv.org/abs/2006.11239
+epoch_ai,,Google Research,2021-06-11,"Multimodal,Vision,Language",820000000.0,2.598670000001e+22,,United States of America,,https://arxiv.org/abs/2102.05918
+epoch_ai,,Microsoft,2021-06-10,Language,1500000000.0,2.588e+22,,United States of America,,https://arxiv.org/abs/2006.03654
+epoch_ai,,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind",2021-06-09,Language,440000000.0,1.91e+21,,"Canada,Canada,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/2106.05346v2
+epoch_ai,,"Google,Google Research,Google Brain",2021-06-09,Vision,2440000000.0,4.27e+22,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2106.04803v2
+epoch_ai,,"Google Brain,Google Research",2021-06-08,Vision,1843000000.0,5.85e+22,,"United States of America,United States of America",,https://arxiv.org/abs/2106.04560
+epoch_ai,,"Google,Google Research",2021-05-28,Language,12900000000.0,8.1e+22,,"United States of America,United States of America",,https://arxiv.org/abs/2105.13626
+epoch_ai,,"Google Cloud,Google Research",2021-05-26,Vision,90100000.0,2.40576e+19,,"United States of America,United States of America",,https://arxiv.org/abs/2105.12723v4
+epoch_ai,,"Tsinghua University,Alibaba DAMO Academy",2021-05-26,Image generation,4000000000.0,2.68e+22,,"China,China",,https://arxiv.org/abs/2105.13290
+epoch_ai,,"Peng Cheng Laboratory,University of Texas at Houston",2021-05-20,Medicine,17000000.0,9.47e+18,,"China,United States of America",,https://www.nature.com/articles/s41746-021-00455-y
+epoch_ai,,OpenAI,2021-05-11,Image generation,559000000.0,6.2e+21,,United States of America,,https://arxiv.org/abs/2105.05233
+epoch_ai,,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University",2021-05-04,Biology,3000000000.0,1.8704498688e+22,,"Germany,China,United States of America,United States of America,United States of America,Korea (Republic of)",,https://www.biorxiv.org/content/10.1101/2020.07.12.199554v3.full.pdf
+epoch_ai,,"Technical University of Munich,NVIDIA,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",2021-05-04,Biology,420000000.0,3.9e+22,,"Germany,United States of America,Korea (Republic of),United States of America,United States of America,China",,https://www.biorxiv.org/content/10.1101/2020.07.12.199554v3 or https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477085
+epoch_ai,,Alibaba,2021-04-19,Language,27000000000.0,3.5997696e+22,,China,,https://mp.weixin.qq.com/s/DAQomIkDa52Sef-ruyH5qg
+epoch_ai,,Allen Institute for AI,2021-03-24,Language,11000000000.0,,,United States of America,,https://arxiv.org/abs/2103.13009
+epoch_ai,,Alibaba,2021-03-05,"Multimodal,Language,Vision",1002700000000.0,5.5e+21,,China,,https://arxiv.org/abs/2105.15082
+epoch_ai,,Facebook AI Research,2021-03-05,Language,9431810048.0,1.449e+22,,"United States of America,France",,https://arxiv.org/abs/2004.13637
+epoch_ai,,"Google Brain,Google AI",2021-03-01,Vision,480000000.0,4.79e+22,,"United States of America,United States of America",,https://arxiv.org/abs/2003.10580
+epoch_ai,,ASAPP,2021-02-24,Language,234000000.0,2.1173704e+19,,United States of America,,https://arxiv.org/abs/2102.12459
+epoch_ai,,TU Darmstadt,2021-02-18,Games,1683456.0,,,Germany,,https://arxiv.org/abs/2102.09407v3
+epoch_ai,,"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)",2021-02-13,Biology,100000000.0,5.49e+21,,"United States of America,France,United States of America,United States of America",,https://proceedings.mlr.press/v139/rao21a/rao21a.pdf
+epoch_ai,,"University of Edinburgh,Toshiba Cambridge Research Laboratory",2021-02-09,Speech,,,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/2102.04697
+epoch_ai,,"University of Washington,Microsoft Research",2021-02-09,Earth science,2676376.0,5.6845152e+18,,"United States of America,United States of America",,https://arxiv.org/abs/2102.05107
+epoch_ai,,"Meta AI,Sorbonne University",2021-01-15,Vision,86000000.0,7.884e+19,,"United States of America,France",,https://arxiv.org/abs/2012.12877
+epoch_ai,,Google,2021-01-11,Language,1571000000000.0,8.22e+22,,United States of America,,https://arxiv.org/abs/2101.03961
+epoch_ai,,"Google,Apple",2021-01-10,Speech,8000000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/2109.13226
+epoch_ai,,OpenAI,2021-01-05,Image generation,12000000000.0,4.7e+22,,United States of America,,https://openai.com/blog/dall-e/https://arxiv.org/abs/2102.12092
+epoch_ai,,OpenAI,2021-01-05,"Multimodal,Vision,Language,Video",370000000.0,1.05e+22,,United States of America,,https://arxiv.org/abs/2103.00020https://huggingface.co/openai/clip-vit-large-patch14-336
+epoch_ai,,OpenAI,2021-01-05,"Multimodal,Vision,Language,Video",88600000.0,,,United States of America,,https://arxiv.org/abs/2103.00020
+epoch_ai,,Baidu,2020-12-31,Language,247000000.00000003,3.0302798e+19,,China,,https://arxiv.org/abs/2012.15688
+epoch_ai,,"Google,National Tsing Hua University",2020-12-25,Language,45000000.0,5.4e+17,,"United States of America,Taiwan",,https://arxiv.org/abs/2012.13575
+epoch_ai,,"Korea University,Princeton University",2020-12-23,Language,,2.09952e+18,,"Korea (Republic of),United States of America",,https://arxiv.org/abs/2012.12624v3
+epoch_ai,,Heidelberg University,2020-12-17,Image generation,,,,Germany,,https://arxiv.org/abs/2012.09841
+epoch_ai,,"Facebook AI Research,New York University (NYU)",2020-12-15,Biology,652400000.0,5.1e+21,,"United States of America,France,United States of America",,https://www.pnas.org/doi/abs/10.1073/pnas.2016239118
+epoch_ai,,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",2020-12-01,Language,2600000000.0,2.6052e+20,,"China,China",,https://arxiv.org/abs/2012.00413
+epoch_ai,,DeepMind,2020-11-30,Biology,93000000.0,2.99e+21,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/s41586-021-03819-2
+epoch_ai,,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / UniversitÃ© de MontrÃ©al",2020-11-23,Language,125000000.0,1.66e+21,,"China,Canada,France,Canada,United States of America,Canada",,https://arxiv.org/abs/1911.06136
+epoch_ai,,Facebook,2020-10-22,Speech,317000000.0,3.87072e+21,,United States of America,,https://arxiv.org/abs/2006.11477
+epoch_ai,,"Google Brain,Google Research",2020-10-22,Vision,632000000.0,4.262e+21,,"United States of America,United States of America",,https://arxiv.org/abs/2010.11929
+epoch_ai,,Google Brain,2020-10-22,Vision,86000000.0,,,United States of America,,https://arxiv.org/abs/2010.11929
+epoch_ai,,"deepset,Bayerische Staatsbibliothek Muenchen",2020-10-21,Language,335000000.0,1.42829568e+21,,"Germany,Germany",,https://arxiv.org/abs/2010.10906
+epoch_ai,,"Google,Google Research",2020-10-20,Language,13000000000.0,8.2e+22,,"United States of America,United States of America",,https://aclanthology.org/2021.naacl-main.41/
+epoch_ai,,"Google,Google Research,Google Brain",2020-10-20,Speech,1000000000.0,7.6e+21,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2010.10504v2
+epoch_ai,,"University of Washington,National Institute of Informatics",2020-10-02,Language,483000000.0,1.8144e+22,,"United States of America,Japan",,https://arxiv.org/abs/2010.01057v1
+epoch_ai,,"University of Illinois Urbana-Champaign (UIUC),Reed College",2020-09-01,Biology,44000000.0,9.72e+18,,"United States of America,United States of America",,https://dl.acm.org/doi/10.1145/3388440.3412467
+epoch_ai,,Baidu,2020-08-06,Language,340000000.0,2e+20,,China,,https://arxiv.org/abs/2001.11314
+epoch_ai,,"University of Washington,Allen Institute for AI,Facebook AI Research",2020-08-03,Language,99000000.0,3.8016e+18,,"United States of America,United States of America,United States of America,France",,https://arxiv.org/abs/2008.00623
+epoch_ai,,Google Brain,2020-07-27,Vision,77000000.0,,,United States of America,,https://arxiv.org/abs/1911.09070
+epoch_ai,,"Johannes Kepler University Linz,Institute of Advanced Research in Artificial Intelligence,University of Oslo",2020-07-16,"Biology,Vision,Language,Medicine",,,,"Austria,Austria,Norway",,https://arxiv.org/abs/2008.02217
+epoch_ai,,"Carnegie Mellon University (CMU),Facebook AI Research",2020-07-02,Robotics,,,,"United States of America,United States of America,France",,https://proceedings.neurips.cc/paper/2020/file/2c75cf2681788adaca63aa95ae028b22-Paper.pdfhttps://arxiv.org/abs/2007.00643
+epoch_ai,,Google,2020-06-30,Language,2300000000.0,4.765e+22,,United States of America,,https://arxiv.org/abs/2006.16668
+epoch_ai,,OpenAI,2020-05-28,Language,174600000000.0,3.14e+23,,United States of America,,https://arxiv.org/abs/2005.14165
+epoch_ai,,Facebook,2020-05-26,Vision,60000000.0,4e+20,,United States of America,,https://arxiv.org/abs/2005.12872
+epoch_ai,,"Facebook,New York University (NYU),University College London (UCL)",2020-05-22,Language,626000000.0,,,"United States of America,United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/2005.11401v4
+epoch_ai,,Google,2020-05-16,Speech,118800000.0,,,United States of America,,https://arxiv.org/abs/2005.08100v1
+epoch_ai,,Google,2020-05-07,Speech,112700000.0,,,United States of America,,https://arxiv.org/abs/2005.03191v3
+epoch_ai,,"Northeastern University (China),NiuTrans Research,Kingsoft",2020-05-06,Language,23000000.0,,,"China,China,China",,https://arxiv.org/pdf/2005.02593
+epoch_ai,,"Allen Institute for AI,University of Washington",2020-05-02,Language,11000000000.0,1.65e+19,,"United States of America,United States of America",,https://arxiv.org/abs/2005.00700v3
+epoch_ai,,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM",2020-04-29,Vision,7700000.0,6.237e+20,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/1908.09791
+epoch_ai,,"Uber AI,OpenAI",2020-04-27,Games,,,,"United States of America,United States of America",,https://arxiv.org/abs/2004.12919
+epoch_ai,,University of California (UC) Berkeley,2020-04-08,Games,907264.0,,,United States of America,,https://arxiv.org/abs/2004.04136v4
+epoch_ai,,DeepMind,2020-03-30,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2003.13350
+epoch_ai,,Google,2020-03-24,Earth science,225000000.0,9.510912e+18,,United States of America,,https://arxiv.org/abs/2003.12140
+epoch_ai,,"Stanford University,Google,Google Brain",2020-03-23,Language,335000000.0,3.1e+21,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/2003.10555v1
+epoch_ai,,University of California (UC) Berkeley,2020-03-17,Language,85300000.0,1.58e+18,,United States of America,,https://arxiv.org/abs/2003.07845
+epoch_ai,,Google Research,2020-03-12,Language,79500000.0,,,United States of America,,https://arxiv.org/abs/2003.05997
+epoch_ai,,"University of California Los Angeles (UCLA),JD.com",2020-03-11,Language,151000000.0,2.6289761e+19,,"United States of America,China",,https://openreview.net/forum?id=ByxY8CNtvr
+epoch_ai,,"Nanjing University,Ant Group",2020-02-28,Language,33000000.0,,,"China,China",,https://arxiv.org/abs/2002.12530
+epoch_ai,,"LORIA,University of Lorraine,Facebook AI Research",2020-02-21,Language,126000000.0,7.690547e+18,,"France,France,United States of America,France",,https://arxiv.org/abs/2002.09402
+epoch_ai,,Google,2020-02-14,Language,220000000.0,3.3687317e+19,,United States of America,,https://arxiv.org/abs/2002.05202
+epoch_ai,,Microsoft,2020-02-13,Language,17000000000.0,1.57e+22,,United States of America,,https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
+epoch_ai,,Google Brain,2020-02-13,Vision,375000000.0,,,United States of America,,https://arxiv.org/abs/2002.05709
+epoch_ai,,"Toyota Technological Institute at Chicago,Google",2020-02-09,Language,235000000.0,2.39e+21,,"United States of America,United States of America",,https://arxiv.org/abs/1909.11942
+epoch_ai,,Carleton University,2020-02-08,Language,240000000.0,2.6990346e+19,,Canada,,https://arxiv.org/abs/2002.03184
+epoch_ai,,DeepMind,2020-02-08,"Multimodal,Language,Vision",27900000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/2107.14795
+epoch_ai,,"University of California San Diego,Beihang University,Microsoft",2020-02-07,Language,66000000.0,,,"United States of America,China,United States of America",,https://arxiv.org/abs/2002.02925
+epoch_ai,,Google Brain,2020-01-28,Language,2600000000.0,1.12e+23,,United States of America,,https://arxiv.org/abs/2001.09977
+epoch_ai,,Google,2020-01-19,Speech,,8.16e+21,,United States of America,,https://arxiv.org/abs/2005.09629v2
+epoch_ai,,DeepMind,2020-01-15,Biology,16340840.0,1e+20,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/s41586-019-1923-7
+epoch_ai,,Google Brain,2019-12-24,Vision,928000000.0,,,United States of America,,https://arxiv.org/abs/1912.11370
+epoch_ai,,"Georgia Institute of Technology,Facebook AI Research,Oregon State University,Simon Fraser University",2019-12-19,Robotics,,7.8e+20,,"United States of America,United States of America,France,United States of America,Canada",,https://openreview.net/forum?id=H1gX8C4YPrhttps://arxiv.org/abs/1911.00357
+epoch_ai,,OpenAI,2019-12-13,Games,159000000.0,1.3e+22,,United States of America,,https://cdn.openai.com/dota-2.pdf
+epoch_ai,,OpenAI,2019-12-13,Games,159000000.0,6.7e+22,,United States of America,,https://arxiv.org/abs/1912.06680
+epoch_ai,,"Beijing University of Posts and Telecommunications,University of West London",2019-12-05,Language,32300000.0,1.938e+17,,"China,United Kingdom of Great Britain and Northern Ireland",,http://repository.uwl.ac.uk/id/eprint/6490/1/Loo_etal_IEEE_TNNLS_2019_Major-minor_long_short-term_memory_for_word-level_language_model.pdf
+epoch_ai,,"Beijing University of Posts and Telecommunications,University of West London",2019-12-05,Language,21300000.0,5.8298782e+16,,"China,United Kingdom of Great Britain and Northern Ireland",,http://repository.uwl.ac.uk/id/eprint/6490/1/Loo_etal_IEEE_TNNLS_2019_Major-minor_long_short-term_memory_for_word-level_language_model.pdf
+epoch_ai,,"NAVER,Yonsei University,Swiss Federal Institute of Technology",2019-12-04,"Vision,Image generation",,,,"Korea (Republic of),Korea (Republic of),Switzerland",,https://arxiv.org/abs/1912.01865
+epoch_ai,,"NVIDIA,Aalto University",2019-12-03,Image generation,30000000.0,,,"United States of America,Finland",,https://arxiv.org/pdf/1912.04958
+epoch_ai,,"University of Washington,Allen Institute for AI",2019-11-27,Language,141000000.0,1.74276e+18,,"United States of America,United States of America",,https://arxiv.org/abs/1911.12385
+epoch_ai,,University of Oxford,2019-11-25,"3D modeling,Vision",,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1911.11130
+epoch_ai,,Facebook,2019-11-19,Speech,296000000.0,,,United States of America,,https://arxiv.org/abs/1911.08460v3
+epoch_ai,,DeepMind,2019-11-19,Games,36864000.0,4.8e+19,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1911.08265v2
+epoch_ai,,Facebook AI,2019-11-13,"Vision,Image generation",375000000.0,,,United States of America,,https://arxiv.org/abs/1911.05722
+epoch_ai,,"Carnegie Mellon University (CMU),Google",2019-11-11,Vision,480000000.0,2.612e+22,,"United States of America,United States of America",,https://arxiv.org/abs/1911.04252v4
+epoch_ai,,"Allen Institute for AI,Facebook AI Research",2019-11-10,Language,209000000.0,2.3504093e+19,,"United States of America,United States of America,France",,https://arxiv.org/abs/1911.03864
+epoch_ai,,"Facebook,INRIA,Sorbonne University",2019-11-10,Language,335000000.0,8.3e+20,,"United States of America,France,France",,https://arxiv.org/abs/1911.03894
+epoch_ai,,Facebook AI,2019-11-05,Language,550000000.0,2.076e+22,,United States of America,,https://arxiv.org/abs/1911.02116
+epoch_ai,,"Stanford University,Facebook AI Research",2019-11-01,Language,247000000.00000003,3.05292e+19,,"United States of America,United States of America,France",,https://arxiv.org/abs/1911.00172
+epoch_ai,,DeepMind,2019-10-30,Games,139000000.0,1.0773400001e+23,,United Kingdom of Great Britain and Northern Ireland,,https://www.deepmind.com/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning
+epoch_ai,,Facebook AI,2019-10-29,Language,406291456.0,,,United States of America,,https://arxiv.org/abs/1910.13461
+epoch_ai,,Google,2019-10-23,Language,11000000000.0,3.3e+22,,United States of America,,https://arxiv.org/abs/1910.10683
+epoch_ai,,Google,2019-10-23,Language,2800000000.0,9.0000000001e+21,,United States of America,,https://arxiv.org/abs/1910.10683
+epoch_ai,,Google,2019-10-11,Language,50000000000.0,,,United States of America,,https://blog.research.google/2019/10/exploring-massively-multilingual.html
+epoch_ai,,Hugging Face,2019-10-02,Language,66000000.0,1.24416e+19,,United States of America,,https://arxiv.org/abs/1910.01108
+epoch_ai,,"Facebook AI Research,Brown University",2019-10-02,Vision,5400000.0,8.89344e+17,,"United States of America,France,United States of America",,https://arxiv.org/abs/1903.11059
+epoch_ai,,"Toyota Technological Institute at Chicago,Google Research",2019-09-26,Language,18000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/1909.11942
+epoch_ai,,"Facebook AI Research,LORIA",2019-09-25,Language,423000000.00000006,,,"United States of America,France,France",,https://arxiv.org/abs/1909.11556
+epoch_ai,,NVIDIA,2019-09-17,Language,8300000000.0,9.1e+21,,United States of America,,https://arxiv.org/abs/1909.08053
+epoch_ai,,NVIDIA,2019-09-17,Language,1200000000.0,1.13e+22,,United States of America,,https://arxiv.org/abs/1909.08053
+epoch_ai,,NVIDIA,2019-09-17,Language,3900000000.0,2.2e+22,,United States of America,,https://arxiv.org/abs/1909.08053
+epoch_ai,,Fraunhofer Heinrich Hertz Institute,2019-09-04,Biology,28303800.0,6.37e+17,,Germany,,https://www.biorxiv.org/content/10.1101/704874v2.full.pdf
+epoch_ai,,"DeepMind,University of Oxford",2019-09-04,Language,35000000.0,,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1909.01792
+epoch_ai,,"Nankai University,University of Washington,Tianjin University,Harvard University",2019-08-22,Biology,,3.8047968e+19,,"China,United States of America,China,United States of America",,https://www.pnas.org/doi/10.1073/pnas.1914677117
+epoch_ai,,"Beijing Institute of Technology,University of Technology Sydney,Monash University",2019-07-22,Language,23000000.0,,,"China,Australia,Australia",,https://arxiv.org/abs/1907.09109
+epoch_ai,,Facebook AI Research,2019-07-11,Games,,6.6e+16,,"United States of America,France",,https://www.science.org/cms/asset/910714a7-ee2a-486e-9970-42fb893b08d9/pap.pdf
+epoch_ai,,Google,2019-07-04,"Vision,Image generation",86000000.0,,,United States of America,,https://arxiv.org/abs/1907.02544
+epoch_ai,,"Facebook,University of Washington",2019-07-01,Language,355000000.0,8.5067e+21,,"United States of America,United States of America",,https://arxiv.org/abs/1907.11692
+epoch_ai,,"University of California (UC) Berkeley,Google Brain",2019-06-19,Robotics,,,,"United States of America,United States of America",,https://arxiv.org/abs/1812.11103
+epoch_ai,,"Brown University,Facebook",2019-06-17,Vision,44100000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/1906.06832
+epoch_ai,,ETH Zurich,2019-06-15,Image generation,,,,Switzerland,,https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Sliced_Wasserstein_Generative_Models_CVPR_2019_paper.html
+epoch_ai,,Facebook AI,2019-06-14,Vision,829000000.0,,,United States of America,,https://arxiv.org/abs/1906.06423
+epoch_ai,,Capital One,2019-06-13,Language,,,,United States of America,,https://arxiv.org/abs/1906.05678
+epoch_ai,,University of Texas at Austin,2019-06-10,Language,35000000.0,3.15e+17,,United States of America,,https://arxiv.org/abs/1906.03805
+epoch_ai,,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",2019-06-04,Language,256999999.99999997,3.7848651e+20,,"United States of America,United States of America",,https://arxiv.org/abs/1906.01702
+epoch_ai,,"Carnegie Mellon University (CMU),Google Brain",2019-06-01,Language,340000000.0,6.19e+21,,"United States of America,United States of America",,https://arxiv.org/abs/1906.08237
+epoch_ai,,Facebook,2019-06-01,Language,665000000.0,,,United States of America,,https://arxiv.org/abs/1901.07291
+epoch_ai,,Facebook AI,2019-05-31,Recommendation,100000000000.0,4e+18,,United States of America,,https://arxiv.org/abs/1906.00091
+epoch_ai,,Google,2019-05-28,Vision,480000000.0,,,United States of America,,https://arxiv.org/abs/1905.11946
+epoch_ai,,"DeepMind,University of California (UC) Berkeley",2019-05-22,Vision,303000000.0,,,"United Kingdom of Great Britain and Northern Ireland,United States of America",,https://arxiv.org/abs/1905.09272
+epoch_ai,,IDIAP,2019-05-14,Language,34000000.0,4.08e+17,,Switzerland,,https://arxiv.org/abs/1905.05513
+epoch_ai,,Facebook AI,2019-05-02,Vision,193000000.0,,,United States of America,,https://arxiv.org/abs/1905.00546
+epoch_ai,,Toyota Technological Institute at Chicago,2019-05-02,Biology,,,,United States of America,,https://www.biorxiv.org/content/biorxiv/early/2019/05/02/624460.full.pdf
+epoch_ai,,"Massachusetts Institute of Technology (MIT),Tsinghua University,MIT-IBM Watson AI Lab,DeepMind",2019-04-26,"Vision,Language",,,,"United States of America,China,United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1904.12584
+epoch_ai,,OpenAI,2019-04-25,Audio,2038431744.0,2.208301056e+20,,United States of America,,https://openai.com/index/musenet/
+epoch_ai,,Amazon,2019-04-20,Language,395000000.0,1.5405e+20,,United States of America,,https://arxiv.org/abs/1904.09408
+epoch_ai,,University of Edinburgh,2019-04-17,Language,256999999.99999997,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1904.08378
+epoch_ai,,Amazon,2019-04-08,Language,23000000.0,7.30000001e+17,,United States of America,,https://arxiv.org/abs/1904.03819
+epoch_ai,,"Mobvoi,Williams College",2019-04-08,Language,7000000.0,,,"China,United States of America",,https://arxiv.org/abs/1904.04163
+epoch_ai,,"Tel Aviv University,Massachusetts Institute of Technology (MIT)",2019-04-04,Language,,2.56e+18,,"Israel,United States of America",,https://arxiv.org/abs/1902.09492
+epoch_ai,,Allen Institute for AI,2019-03-26,Language,110000000.0,8.926848e+19,,United States of America,,https://arxiv.org/abs/1903.10676
+epoch_ai,,"Google,Bar-Ilan University",2019-02-28,Language,437700000.0,,,"United States of America,Israel",,https://arxiv.org/abs/1903.00089
+epoch_ai,,Jane Street,2019-02-27,Games,2500000.0,2.32e+19,,United States of America,,https://arxiv.org/abs/1902.10565
+epoch_ai,,OpenAI,2019-02-14,Language,1500000000.0,1.920000000001e+21,,United States of America,,https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+epoch_ai,,"Carnegie Mellon University (CMU),Google Brain,Monash University",2019-02-09,Language,,,,"United States of America,United States of America,Australia",,https://arxiv.org/abs/1902.03499
+epoch_ai,,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain",2019-02-01,Games,764000.0,4.3e+18,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America",,https://arxiv.org/abs/1902.00506
+epoch_ai,,Microsoft,2019-01-31,Language,330000000.0,,,United States of America,,https://arxiv.org/abs/1901.11504
+epoch_ai,,"Carnegie Mellon University (CMU),Google Brain",2019-01-09,Language,256999999.99999997,3.7832771e+20,,"United States of America,United States of America",,https://arxiv.org/abs/1901.02860
+epoch_ai,,"Allen Institute for AI,University of Washington",2019-01-01,Language,56000000.0,,,"United States of America,United States of America",,https://www.semanticscholar.org/paper/Dissecting-Contextual-Word-Embeddings%3A-Architecture-Peters-Neumann/ac11062f1f368d97f4c826c317bf50dcc13fdb59
+epoch_ai,,NVIDIA,2018-12-12,Image generation,26200000.0,3.93e+16,,United States of America,,https://arxiv.org/abs/1812.04948
+epoch_ai,,"Google Brain,DeepMind",2018-12-04,Image generation,250000000.0,,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1812.01608
+epoch_ai,,Google,2018-11-16,Language,6000000000.0,,,United States of America,,https://arxiv.org/abs/1811.06965
+epoch_ai,,University of Hyderabad,2018-11-15,Language,7200000.0,2006640000000000.0,,India,,https://arxiv.org/abs/1811.06477
+epoch_ai,,Samsung R&D Institute Russia,2018-11-12,Language,46000000.0,5.188e+16,,Russia,,https://arxiv.org/abs/1811.04623
+epoch_ai,,Google Brain,2018-11-05,Language,4900000000.0,1.617408e+20,,United States of America,,https://arxiv.org/abs/1811.02084
+epoch_ai,,Google Brain,2018-11-05,Language,2900000000.0,6.84288e+19,,United States of America,,https://arxiv.org/abs/1811.02084
+epoch_ai,,"Samsung,Korea University",2018-10-31,Language,,,,"Korea (Republic of),Korea (Republic of)",,https://aclanthology.org/D18-1237/
+epoch_ai,,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs",2018-10-15,Language,180000000.0,2.78e+18,,"United States of America,Germany,United States of America",,https://arxiv.org/abs/1810.06682
+epoch_ai,,Google,2018-10-11,Robotics,22000000.0,,,United States of America,,https://arxiv.org/abs/1810.05017
+epoch_ai,,Google,2018-10-11,Language,340000000.0,2.85e+20,,United States of America,,https://arxiv.org/abs/1810.04805
+epoch_ai,,Facebook AI Research,2018-09-28,Language,247000000.0,4.47e+19,,"United States of America,France",,https://arxiv.org/abs/1809.10853
+epoch_ai,,"KU Leuven,ESAT - PSI,Apple",2018-09-24,Language,2100000.0,982800000000000.0,,"Belgium,Belgium,United States of America",,https://arxiv.org/abs/1809.08826
+epoch_ai,,"Peking University,Microsoft Research Asia",2018-09-18,Language,35000000.0,,,"China,China",,https://arxiv.org/abs/1809.06858
+epoch_ai,,"ASAPP,Cornell University,Google,Princeton University",2018-09-17,Language,90000000.0,1.1e+19,,"United States of America,United States of America,United States of America,United States of America",,https://arxiv.org/abs/1709.02755v5
+epoch_ai,,"Technical University of Denmark,University of Copenhagen,Universidad Nacional de San MartÃ­n,AIMST University",2018-09-10,Biology,,,,"Denmark,Denmark,Argentina,Malaysia",,https://www.biorxiv.org/content/10.1101/311209v3.full
+epoch_ai,,"NTT Communication Science Laboratories,Tohoku University",2018-08-30,Language,185000000.0,6.66e+17,,"Japan,Japan",,https://arxiv.org/abs/1808.10143
+epoch_ai,,"Facebook AI Research,Google Brain",2018-08-28,Language,,4.7808e+20,,"United States of America,France,United States of America",,https://arxiv.org/abs/1808.09381
+epoch_ai,,IBM,2018-08-14,Language,35000000.0,,,United States of America,,https://arxiv.org/abs/1808.05908
+epoch_ai,,IBM,2018-07-10,Speech,3320000.0,4.290048e+17,,United States of America,,https://arxiv.org/abs/1807.03848
+epoch_ai,,IBM,2018-07-10,Vision,77360000.0,2.46048e+17,,United States of America,,https://arxiv.org/abs/1807.03848
+epoch_ai,,DeepMind,2018-07-03,Games,126001330.0,3.49e+19,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1807.01281
+epoch_ai,,Google,2018-06-18,Vision,3400000.0,,,United States of America,,https://ieeexplore.ieee.org/document/8578572
+epoch_ai,,"DeepMind,University College London (UCL)",2018-06-05,Language,,,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1806.01822
+epoch_ai,,OpenAI,2018-06-01,Language,117000000.0,1.7578125e+19,,United States of America,,https://openai.com/blog/language-unsupervised/
+epoch_ai,,"University of Manchester,Alan Turing Institute",2018-05-22,Language,32000000.0,7.296e+16,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1805.08574
+epoch_ai,,"Columbia University,New York University (NYU),Princeton University",2018-05-03,Language,51000000.0,1.27e+17,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/1805.01500
+epoch_ai,,Facebook,2018-05-02,Vision,829000000.0,8.74395e+21,,United States of America,,https://arxiv.org/abs/1805.00932
+epoch_ai,,University of Washington,2018-04-08,Vision,56933216.0,1.3416380824e+19,,United States of America,,https://arxiv.org/abs/1804.02767
+epoch_ai,,Salesforce Research,2018-03-22,Language,151000000.0,5.9158815e+17,,United States of America,,https://arxiv.org/abs/1803.08240
+epoch_ai,,Microsoft,2018-03-01,Language,,,,United States of America,,https://www.microsoft.com/en-us/research/publication/achieving-human-parity-on-automatic-chinese-to-english-news-translation/
+epoch_ai,,"Carnegie Mellon University (CMU),Intel Labs",2018-02-15,Vision,42000.0,,,"United States of America,United States of America",,https://openreview.net/forum?id=rk8wKk-R-
+epoch_ai,,Google,2018-02-07,Vision,,,,United States of America,,https://arxiv.org/abs/1802.02611v3
+epoch_ai,,DeepMind,2018-02-05,Games,1600000.0,1.68e+20,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1802.01561
+epoch_ai,,Salesforce Research,2018-02-01,Language,135000000.0,6.8866472e+17,,United States of America,,https://mlsys.org/Conferences/doc/2018/50.pdf
+epoch_ai,,"University of Washington,Allen Institute for AI",2018-02-01,Language,94000000.0,3300100000000010.0,,"United States of America,United States of America",,https://arxiv.org/abs/1802.05365
+epoch_ai,,Google Brain,2018-01-30,Language,,,,United States of America,,https://arxiv.org/abs/1801.10198
+epoch_ai,,DeepMind,2017-12-05,Games,,1.0600000001e+20,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1712.01815
+epoch_ai,,Baidu,2017-12-01,Speech,193000000.0,,,China,,https://www.semanticscholar.org/paper/Deep-Learning-Scaling-is-Predictable%2C-Empirically-Hestness-Narang/a1c922be467d1c0c64b963e65dae41778b81b2a0
+epoch_ai,,Baidu,2017-12-01,Language,177000000.0,,,China,,https://www.semanticscholar.org/paper/Deep-Learning-Scaling-is-Predictable%2C-Empirically-Hestness-Narang/a1c922be467d1c0c64b963e65dae41778b81b2a0
+epoch_ai,,Baidu,2017-12-01,Vision,121000000.0,,,China,,https://www.semanticscholar.org/paper/Deep-Learning-Scaling-is-Predictable%2C-Empirically-Hestness-Narang/a1c922be467d1c0c64b963e65dae41778b81b2a0
+epoch_ai,,"Visual Computing Institute,RWTH Aachen University",2017-11-21,Video,,,,"Germany,Germany",,https://arxiv.org/abs/1703.07737
+epoch_ai,,Carnegie Mellon University (CMU),2017-11-10,Language,35000000.0,3.36e+18,,United States of America,,https://arxiv.org/abs/1711.03953
+epoch_ai,,DeepMind,2017-11-02,Vision,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1711.00937
+epoch_ai,,"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / UniversitÃ© de MontrÃ©al",2017-10-31,Language,34000000.0,3.06e+17,,"Poland,Canada,Canada",,https://arxiv.org/abs/1711.00066
+epoch_ai,,Salesforce Research,2017-10-31,Language,,,,United States of America,,https://arxiv.org/abs/1711.00106v2
+epoch_ai,,"University of Washington,Allen Institute for AI",2017-10-29,Language,,,,"United States of America,United States of America",,https://arxiv.org/abs/1710.10723v2
+epoch_ai,,"Carnegie Mellon University (CMU),University of Pittsburgh",2017-10-28,Language,,,,"United States of America,United States of America",,https://arxiv.org/abs/1710.10504v2
+epoch_ai,,NVIDIA,2017-10-27,Vision,,,,United States of America,,https://arxiv.org/abs/1710.10196
+epoch_ai,,DeepMind,2017-10-19,Games,,3.4100000001e+20,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/nature24270
+epoch_ai,,DeepMind,2017-10-18,Games,46400244.0,6.49439910290227e+20,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/nature24270
+epoch_ai,,DeepMind,2017-10-06,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1710.02298
+epoch_ai,,NTT Communication Science Laboratories,2017-09-26,Language,53000000.0,3180000000000000.0,,Japan,,https://arxiv.org/abs/1709.08907
+epoch_ai,,University of Edinburgh,2017-09-21,Language,50000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1709.07432
+epoch_ai,,"Duke University,Microsoft",2017-09-15,Language,11100000.000000002,3400000000000000.0,,"United States of America,United States of America",,https://arxiv.org/abs/1709.05027
+epoch_ai,,Korea Advanced Institute of Science and Technology (KAIST),2017-09-06,Vision,26000000.0,2340000000000000.0,,Korea (Republic of),,https://arxiv.org/abs/1610.02915v4
+epoch_ai,,"Chinese Academy of Sciences,University of Oxford",2017-09-05,Vision,28100000.0,,,"China,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1709.01507
+epoch_ai,,Ben-Gurion University of the Negev,2017-08-29,Language,38000000.0,4.56e+17,,Israel,,https://arxiv.org/abs/1708.08863
+epoch_ai,,Carnegie Mellon University (CMU),2017-08-19,Games,,5.51e+20,,United States of America,,https://www.ijcai.org/proceedings/2017/0772.pdf
+epoch_ai,,"Shandong University,Texas A&M,National University of Singapore,Columbia University",2017-08-16,Recommendation,,,,"China,United States of America,Singapore,United States of America",,https://arxiv.org/abs/1708.05031
+epoch_ai,,Korea Advanced Institute of Science and Technology (KAIST),2017-08-14,Language,19000000.0,1.06e+16,,Korea (Republic of),,https://arxiv.org/abs/1708.04116
+epoch_ai,,OpenAI,2017-08-11,Games,,6.046095222592002e+20,,United States of America,,https://openai.com/research/dota-2
+epoch_ai,,Facebook AI Research,2017-08-07,Vision,53000000.0,2.065392e+18,,"United States of America,France",,https://arxiv.org/abs/1708.02002
+epoch_ai,,Facebook AI Research,2017-08-07,Vision,34000000.0,,,"United States of America,France",,https://arxiv.org/abs/1708.02002
+epoch_ai,,Salesforce Research,2017-08-07,Language,33000000.0,2.97e+17,,United States of America,,https://arxiv.org/abs/1708.02182
+epoch_ai,,"Peking University,Microsoft Research",2017-07-30,Language,,,,"China,United States of America",,https://aclanthology.org/P17-1018/
+epoch_ai,,Meta AI,2017-07-25,Language,,5.64e+19,,United States of America,,https://arxiv.org/abs/1705.03122
+epoch_ai,,Chinese University of Hong Kong (CUHK),2017-07-21,Vision,,,,Hong Kong,,https://ieeexplore.ieee.org/document/8100143
+epoch_ai,,Google Brain,2017-07-21,Vision,89000000.0,,,United States of America,,https://arxiv.org/abs/1707.07012
+epoch_ai,,"DeepMind,University of Oxford",2017-07-18,Language,24000000.0,,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1707.05589
+epoch_ai,,"Google Research,Carnegie Mellon University (CMU)",2017-07-10,Vision,44654504.0,8.43e+20,,"United States of America,United States of America",,https://arxiv.org/abs/1707.02968
+epoch_ai,,"Technical University of Denmark,University of Copenhagen",2017-07-07,Biology,,5.781024e+17,,"Denmark,Denmark",,https://academic.oup.com/bioinformatics/article/33/21/3387/3931857
+epoch_ai,,Megvii Inc,2017-07-03,Vision,2430000.0,,,China,,https://arxiv.org/abs/1707.01083
+epoch_ai,,DeepMind,2017-06-30,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1706.10295v3
+epoch_ai,,Google,2017-06-17,Vision,,,,United States of America,,https://arxiv.org/abs/1706.05587
+epoch_ai,,"Maluuba,Microsoft",2017-06-13,Games,,,,"Canada,United States of America",,https://arxiv.org/abs/1706.04208
+epoch_ai,,"Google Research,Google Brain",2017-06-12,Language,213000000.0,7.4245248e+18,,"United States of America,United States of America",,https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+epoch_ai,,Seoul National University,2017-06-10,"Vision,Image generation",,,,Korea (Republic of),,https://arxiv.org/abs/1707.02921
+epoch_ai,,DeepMind,2017-06-08,Language,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1706.02596v3
+epoch_ai,,Stanford University,2017-06-07,3D modeling,,,,United States of America,,https://arxiv.org/abs/1706.02413
+epoch_ai,,"DeepMind,University of Oxford",2017-06-01,3D modeling,,,,"United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1705.07750
+epoch_ai,,Twitter,2017-05-25,"Vision,Image generation",,,,United States of America,,https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html
+epoch_ai,,"Fudan University,Microsoft Research",2017-05-08,Language,,,,"China,United States of America",,https://arxiv.org/abs/1705.02798v6
+epoch_ai,,"Johns Hopkins University,Google,University College London (UCL)",2017-04-27,Vision,,,,"United States of America,United States of America,United Kingdom of Great Britain and Northern Ireland",,https://ieeexplore.ieee.org/abstract/document/7913730
+epoch_ai,,Google,2017-04-17,Vision,4200000.0,,,United States of America,,https://arxiv.org/abs/1704.04861
+epoch_ai,,"Courant Institute of Mathematical Sciences,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2017-03-31,Image generation,,,,"United States of America,Canada",,https://arxiv.org/abs/1704.00028
+epoch_ai,,Facebook AI Research,2017-03-30,Vision,,,,"United States of America,France",,https://arxiv.org/abs/1703.06870
+epoch_ai,,"University of Toronto,Twitter",2017-03-15,Vision,,,,"Canada,United States of America",,https://arxiv.org/abs/1703.05175
+epoch_ai,,"Harbin Institute of Technology,Hong Kong Polytechnic University,ULSee Inc.,Xiâan Jiaotong University",2017-02-01,"Vision,Image generation",,,,"China,Hong Kong,China,China",,https://ieeexplore.ieee.org/abstract/document/7839189
+epoch_ai,,"Jagiellonian University,Google Brain",2017-01-23,Language,8700000000.0,9.393905664e+19,,"Poland,United States of America",,https://arxiv.org/abs/1701.06538
+epoch_ai,,"Duke University,University of Chinese Academy of Sciences",2017-01-07,Vision,18200000.0,,,"United States of America,China",,https://arxiv.org/abs/1701.01833v2
+epoch_ai,,"University of Alberta,Charles University,Czech Technical University",2017-01-06,Games,2500000.0,1.446336e+19,,"Canada,Czechia,Czechia",,https://arxiv.org/abs/1701.01724
+epoch_ai,,"University of Washington,Allen Institute for AI",2016-12-25,Vision,51000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/1612.08242
+epoch_ai,,Max Planck Institute for Intelligent Systems,2016-12-23,Vision,814464.0,1.3079231999999998e+17,,Germany,,https://www.semanticscholar.org/paper/EnhanceNet%3A-Single-Image-Super-Resolution-Through-Sajjadi-Scholkopf/fddc32f3880688238847077fd927ab3025db7a6a
+epoch_ai,,University of Southern California,2016-12-15,Vision,44500000.0,,,United States of America,,https://arxiv.org/abs/1612.04904
+epoch_ai,,Carnegie Mellon University (CMU),2016-12-13,Vision,44500000.0,7.077e+18,,United States of America,,https://www.semanticscholar.org/paper/Finding-Tiny-Faces-Hu-Ramanan/71f51e1b6691343ed031c1ed42efc96a7f1a0619
+epoch_ai,,OpenAI,2016-12-05,Vision,,,,United States of America,,https://dl.acm.org/doi/10.5555/3157096.3157346
+epoch_ai,,Stanford University,2016-12-02,3D modeling,,,,United States of America,,https://arxiv.org/abs/1612.00593
+epoch_ai,,DeepMind,2016-12-02,"Vision,Games",,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1612.00796
+epoch_ai,,University of California (UC) Berkeley,2016-11-21,"Vision,Image generation",,,,United States of America,,https://arxiv.org/abs/1611.07004
+epoch_ai,,Chinese University of Hong Kong (CUHK),2016-11-17,Vision,92000000.0,6.4e+19,,Hong Kong,,https://arxiv.org/abs/1611.05725
+epoch_ai,,"University of California San Diego,Facebook",2016-11-16,Vision,83000000.0,1.2e+19,,"United States of America,United States of America",,https://arxiv.org/abs/1611.05431
+epoch_ai,,"University of California San Diego,Facebook",2016-11-16,Vision,25000000.0,,,"United States of America,United States of America",,https://arxiv.org/abs/1611.05431
+epoch_ai,,"Jiangnan University,University of Surrey",2016-11-16,Vision,,,,"China,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1611.05396
+epoch_ai,,Facebook AI Research,2016-11-07,"Vision,Image generation",,,,"United States of America,France",,https://arxiv.org/abs/1611.02200
+epoch_ai,,University of Oxford,2016-11-06,Vision,564000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Deep-Label-Distribution-Learning-With-Label-Gao-Xing/02567fd428a675ca91a0c6786f47f3e35881bcbd
+epoch_ai,,Google Brain,2016-11-05,Vision,37400000.0,2.2e+21,,United States of America,,https://arxiv.org/abs/1611.01578
+epoch_ai,,Google Brain,2016-11-05,Language,54000000.0,1.05e+16,,United States of America,,https://arxiv.org/abs/1611.01578
+epoch_ai,,"University of Washington,Allen Institute for AI",2016-11-05,Language,2600000.0,3.4686144e+18,,"United States of America,United States of America",,https://arxiv.org/abs/1611.01603v6
+epoch_ai,,"Salesforce Research,Stanford University",2016-11-04,Language,51000000.0,2.13e+16,,"United States of America,United States of America",,https://arxiv.org/abs/1611.01462
+epoch_ai,,"Griffith University,University of Iowa,Dezhou University",2016-10-28,Biology,409536.0,1.822e+16,,"Australia,United States of America,China",,https://link.springer.com/protocol/10.1007/978-1-4939-6406-2_6
+epoch_ai,,"University of Michigan,Max Planck Institute for Informatics",2016-10-08,Vision,,,,"United States of America,Germany",,https://www.semanticscholar.org/paper/Learning-What-and-Where-to-Draw-Reed-Akata/cad4ac0d2389a89cf1955dd4788278c1e8ac1af9
+epoch_ai,,Google,2016-10-07,Vision,22855952.0,4.36e+20,,United States of America,,https://arxiv.org/abs/1610.02357
+epoch_ai,,"MetaMind Inc,Salesforce",2016-09-26,Language,21000000.0,7490000000000000.0,,"United States of America,United States of America",,https://arxiv.org/abs/1609.07843
+epoch_ai,,Google,2016-09-26,Language,278000000.0,6.620000000001e+21,,United States of America,,https://arxiv.org/abs/1609.08144
+epoch_ai,,UniversitÃ© Paris-Est,2016-09-19,Vision,,,,France,,https://arxiv.org/abs/1605.07146
+epoch_ai,,Microsoft,2016-09-17,Vision,10200000.0,,,United States of America,,https://link.springer.com/chapter/10.1007/978-3-319-46493-0_38
+epoch_ai,,Microsoft Research Asia,2016-09-17,Vision,,2.9741645e+19,,China,,https://link.springer.com/chapter/10.1007/978-3-319-46493-0_38
+epoch_ai,,Google,2016-09-15,Recommendation,,,,United States of America,,https://research.google/pubs/pub45530/
+epoch_ai,,Google DeepMind,2016-09-12,Speech,,,,United States of America,,https://arxiv.org/abs/1609.03499
+epoch_ai,,Microsoft,2016-09-12,Speech,3172117056.0,,,United States of America,,https://www.semanticscholar.org/paper/The-microsoft-2016-conversational-speech-system-Xiong-Droppo/ac94ef90be9b0c3bf744d6744e47b38855f9a4c7
+epoch_ai,,"Johns Hopkins University,Cornell University",2016-09-08,Speech,16600000.0,,,"United States of America,United States of America",,https://www.semanticscholar.org/paper/Purely-Sequence-Trained-Neural-Networks-for-ASR-on-Povey-Peddinti/6ce6a9a30cd69bd2842a4b581cf48c6815bdfdd8
+epoch_ai,,"Tsinghua University,Facebook AI Research,Cornell University",2016-08-25,Vision,34000000.0,,,"China,United States of America,France,United States of America",,https://arxiv.org/abs/1608.06993
+epoch_ai,,"Sensifai,Islamic Azad University,Technicolor R&I,Institute for Research in Fundamental Sciences (IPM)",2016-08-22,Vision,5480000.0,,,"Belgium,Iran (Islamic Republic of),France,Iran (Islamic Republic of)",,https://arxiv.org/abs/1608.06037
+epoch_ai,,Facebook AI Research,2016-07-15,Language,,,,"United States of America,France",,https://arxiv.org/abs/1607.04606
+epoch_ai,,"SenseTime,Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences",2016-06-27,Vision,,,,"Hong Kong,Hong Kong,China",,https://www.semanticscholar.org/paper/Unconstrained-Face-Alignment-via-Cascaded-Learning-Zhu-Li/4396563ee3ec167932071e7936111f6a8899e905
+epoch_ai,,"Tsinghua University,Microsoft Research",2016-06-21,Vision,,7.1935776e+17,,"China,United States of America",,https://arxiv.org/abs/1605.06409
+epoch_ai,,"University of Edinburgh,Carnegie Mellon University (CMU),University of Washington",2016-06-20,Speech,,,,"United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America",,https://arxiv.org/abs/1603.00223
+epoch_ai,,IEEE,2016-06-17,Vision,138000000.0,,,Multinational,,https://www.semanticscholar.org/paper/CMS-RCNN%3A-Contextual-Multi-Scale-Region-based-CNN-Zhu-Zheng/e8b2a98f87b7b2593b4a046464c1ec63bfd13b51
+epoch_ai,,Google DeepMind,2016-06-16,Vision,,,,United States of America,,https://arxiv.org/abs/1606.05328
+epoch_ai,,UC Irvine,2016-05-08,Vision,138000000.0,,,United States of America,,https://www.semanticscholar.org/paper/Laplacian-Pyramid-Reconstruction-and-Refinement-for-Ghiasi-Fowlkes/2796c448023b78fd77f3a4b57966f257c5e654c2
+epoch_ai,,York University,2016-04-30,Language,8970000.0,,,Canada,,https://arxiv.org/abs/1605.00064
+epoch_ai,,Google DeepMind,2016-04-05,Games,1700000.0,,,United States of America,,https://arxiv.org/abs/1511.06581
+epoch_ai,,University of Oxford,2016-03-12,Vision,138000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Template-Adaptation-for-Face-Verification-and-Crosswhite-Byrne/42515cd370f5edf4ac6c8d4bc3f6e0d848f6b73a
+epoch_ai,,Carnegie Mellon University (CMU),2016-03-04,Language,,9.69408e+16,,United States of America,,https://arxiv.org/abs/1603.01354
+epoch_ai,,Google DeepMind,2016-03-02,Games,1500000.0,,,United States of America,,https://ojs.aaai.org/index.php/AAAI/article/view/10295
+epoch_ai,,"DeepScale,University of California (UC) Berkeley,Stanford University",2016-02-24,Vision,1200000.0,,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/1602.07360
+epoch_ai,,Google,2016-02-23,Vision,43000000.0,,,United States of America,,https://arxiv.org/abs/1602.07261
+epoch_ai,,Google,2016-02-23,Vision,56000000.0,,,United States of America,,https://arxiv.org/abs/1602.07261
+epoch_ai,,"Google,University of Montreal / UniversitÃ© de MontrÃ©al",2016-02-04,Games,,,,"United States of America,Canada",,http://arxiv.org/abs/1602.01783v2
+epoch_ai,,DeepMind,2016-01-27,Games,,1.9e+21,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/nature16961
+epoch_ai,,University of Cambridge,2015-12-16,Language,66000000.0,5886144000000000.0,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1512.05287
+epoch_ai,,Google DeepMind,2015-12-15,Games,,,,United States of America,,http://arxiv.org/abs/1512.04860v1
+epoch_ai,,Microsoft,2015-12-10,Vision,60200000.0,1.041408e+19,,United States of America,,https://arxiv.org/abs/1512.03385
+epoch_ai,,Microsoft,2015-12-10,Vision,1700000.0,,,United States of America,,https://arxiv.org/abs/1512.03385
+epoch_ai,,Microsoft,2015-12-10,Vision,44500000.0,7.004e+18,,United States of America,,https://arxiv.org/abs/1512.03385
+epoch_ai,,,2015-12-08,Vision,,,,,,https://arxiv.org/pdf/1512.02325
+epoch_ai,,"Google,University College London (UCL)",2015-12-02,Vision,23626728.0,1e+20,,"United States of America,United Kingdom of Great Britain and Northern Ireland",,https://arxiv.org/abs/1512.00567
+epoch_ai,,Netflix,2015-12-01,Recommendation,,,,United States of America,,https://dl.acm.org/doi/pdf/10.1145/2843948
+epoch_ai,,"Princeton University,Intel Labs",2015-11-23,Vision,,,,"United States of America,United States of America",,https://arxiv.org/abs/1511.07122
+epoch_ai,,"Chinese Academy of Sciences,Michigan State University",2015-11-23,Vision,5355584.0,,,"China,United States of America",,https://arxiv.org/abs/1511.07212
+epoch_ai,,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",2015-10-28,Vision,138000000.0,1.2311081250000001e+19,,"China,China,Singapore,Singapore",,https://arxiv.org/abs/1510.08160
+epoch_ai,,DeepMind,2015-10-01,Games,8209984.0,3.8e+20,,United Kingdom of Great Britain and Northern Ireland,,https://www.nature.com/articles/nature16961
+epoch_ai,,Google DeepMind,2015-09-09,Robotics,,,,United States of America,,https://arxiv.org/abs/1509.02971
+epoch_ai,,University of Edinburgh,2015-08-31,Language,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1508.07909
+epoch_ai,,"University of Maryland,Rutgers University",2015-08-07,Vision,5006000.0,4.8098691e+17,,"United States of America,United States of America",,https://arxiv.org/abs/1508.01722
+epoch_ai,,IEEE,2015-07-26,Vision,5006000.0,,,Multinational,,https://www.semanticscholar.org/paper/Face-Search-at-Scale%3A-80-Million-Gallery-Wang-Otto/be38934db99182c0e3100be58cd0299151b30625
+epoch_ai,,University of California San Diego,2015-07-19,Vision,,,,United States of America,,https://www.semanticscholar.org/paper/Learning-Complexity-Aware-Cascades-for-Deep-Cai-Saberian/c3bd3b9782dc504ee4f2b8a12bd9c562a5c0d7ad
+epoch_ai,,Google,2015-06-15,Vision,13600000.0,,,United States of America,,https://arxiv.org/abs/1502.03167
+epoch_ai,,"University of Washington,Allen Institute for AI,Facebook AI Research",2015-06-08,Vision,271684800.0,,,"United States of America,United States of America,United States of America,France",,https://arxiv.org/abs/1506.02640
+epoch_ai,,"SenseTime,Chinese University of Hong Kong (CUHK),Shenzhen Institute of Advanced Technology",2015-06-07,Vision,17408.0,,,"Hong Kong,Hong Kong,China",,https://www.semanticscholar.org/paper/Face-alignment-by-coarse-to-fine-shape-searching-Zhu-Li/dc661f478c5a245a919c4b3faae8ea4f598b6e64
+epoch_ai,,Microsoft Research,2015-06-04,Vision,,,,United States of America,,https://arxiv.org/abs/1506.01497
+epoch_ai,,University of Freiburg,2015-05-18,Vision,37676160.0,5.0832252e+16,,Germany,,https://www.semanticscholar.org/paper/U-Net%3A-Convolutional-Networks-for-Biomedical-Image-Ronneberger-Fischer/6364fdaa0a0eccd823a779fcdd489173f938e91a
+epoch_ai,,Microsoft Research,2015-04-30,Vision,,,,United States of America,,https://arxiv.org/abs/1504.08083
+epoch_ai,,Carnegie Mellon University (CMU),2015-04-06,Speech,18413568.0,1.9410191999999997e+17,,United States of America,,https://www.semanticscholar.org/paper/Deep-Recurrent-Neural-Networks-for-Acoustic-Chan-Lane/ae18f67c10a5d4da91f128ec7a6cf7c784122cd5
+epoch_ai,,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University",2015-03-17,Language,8000000.0,3.4153451e+16,,"China,China,Ireland",,https://aclanthology.org/P15-1151/
+epoch_ai,,Google,2015-02-25,Games,1693362.0,,,United States of America,,https://www.nature.com/articles/nature14236
+epoch_ai,,University of California (UC) Berkeley,2015-02-19,Games,33500.0,,,United States of America,,https://arxiv.org/pdf/1502.05477
+epoch_ai,,Microsoft Research,2015-02-06,Vision,87048800.0,2.397403008e+19,,United States of America,,https://arxiv.org/abs/1502.01852
+epoch_ai,,University of Oxford,2015-01-01,Vision,138000000.0,,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Deep-Face-Recognition-Parkhi-Vedaldi/162ea969d1929ed180cc6de9f0bf116993ff6e06
+epoch_ai,,"University of Amsterdam,OpenAI,University of Toronto",2014-12-22,Vision,2370000.0,624979800000000.0,,"Netherlands,United States of America,Canada",,https://arxiv.org/abs/1412.6980
+epoch_ai,,University of Warwick,2014-12-18,Vision,27000000.0,1e+17,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1412.6071v4
+epoch_ai,,Google,2014-12-03,Language,62000000000.0,2.97600000001e+20,,United States of America,,https://arxiv.org/abs/1412.1454
+epoch_ai,,Chinese University of Hong Kong (CUHK),2014-11-29,Vision,706048.0,1.0854e+16,,Hong Kong,,https://arxiv.org/abs/1412.0069
+epoch_ai,,Chinese University of Hong Kong (CUHK),2014-11-28,Vision,,,,Hong Kong,,https://arxiv.org/abs/1411.7766
+epoch_ai,,University of California (UC) Berkeley,2014-11-14,Vision,,,,United States of America,,https://arxiv.org/abs/1411.4038
+epoch_ai,,University of Toronto,2014-11-10,"Multimodal,Vision,Language",,,,Canada,,https://www.semanticscholar.org/paper/Unifying-Visual-Semantic-Embeddings-with-Multimodal-Kiros-Salakhutdinov/2e36ea91a3c8fbff92be2989325531b4002e2afc
+epoch_ai,,"UT Austin,University of Massachusetts Lowell,University of California (UC) Berkeley",2014-11-07,Video,142552000.0,,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/1411.4389
+epoch_ai,,University of Warwick,2014-09-23,Vision,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1409.6070v1
+epoch_ai,,Microsoft Research,2014-09-18,Vision,,,,United States of America,,https://arxiv.org/abs/1409.5185
+epoch_ai,,"Google,University of Michigan,University of North Carolina",2014-09-17,Vision,6797700.0,1.51e+18,,"United States of America,United States of America,United States of America",,https://arxiv.org/abs/1409.4842
+epoch_ai,,"Singapore University of Technology & Design,DSO National Laboratories",2014-09-14,Language,5000000.0,4.4e+16,,"Singapore,Singapore",,https://www.comp.nus.edu.sg/~skok/papers/is14.pdf
+epoch_ai,,Google,2014-09-10,Language,1920000000.0,5.6e+19,,United States of America,,https://arxiv.org/abs/1409.3215
+epoch_ai,,University of Oxford,2014-09-04,Vision,144000000.0,1.1e+19,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1409.1556
+epoch_ai,,University of Oxford,2014-09-04,Vision,138000000.0,1.2291e+19,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1409.1556
+epoch_ai,,"Jacobs University Bremen,University of Montreal / UniversitÃ© de MontrÃ©al",2014-09-01,Language,,1.5552e+18,,"Germany,Canada",,https://arxiv.org/abs/1409.0473
+epoch_ai,,IEEE,2014-08-06,Vision,313856.0,,,Multinational,,https://www.semanticscholar.org/paper/A-Fast-and-Accurate-Unconstrained-Face-Detector-Liao-Jain/fb67880d99ca29125866087dad2934ccc221378a
+epoch_ai,,Chinese Academy of Sciences,2014-07-15,Vision,6144.0,76380000000000.0,,China,,https://arxiv.org/abs/1407.4023
+epoch_ai,,University College London (UCL),2014-07-01,Games,,6.9e+16,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Self-play-Monte-Carlo-tree-search-in-computer-poker-Heinrich-Silver/7b687599b4425aa959036071030e1212a3b359c7
+epoch_ai,,"Google,Stanford University",2014-06-23,Video,126125568.0,,,"United States of America,United States of America",,https://ieeexplore.ieee.org/document/6909619
+epoch_ai,,"Tel Aviv University,Facebook",2014-06-23,Vision,,,,"Israel,United States of America",,https://ieeexplore.ieee.org/document/6909616
+epoch_ai,,"DeepMind,University of Toronto",2014-06-22,Speech,26500000.0,,,"United Kingdom of Great Britain and Northern Ireland,Canada",,https://proceedings.mlr.press/v32/graves14.html
+epoch_ai,,Stanford University,2014-06-21,Vision,144496000.0,,,United States of America,,https://www.semanticscholar.org/paper/Deep-Fragment-Embeddings-for-Bidirectional-Image-Karpathy-Joulin/7f1b111f0bb703b0bd97aba505728a9b0d9b2a54
+epoch_ai,,"Microsoft,Xiâan Jiaotong University,University of Science and Technology of China (USTC)",2014-06-18,Vision,,3.411072e+18,,"United States of America,China,China",,https://arxiv.org/abs/1406.4729
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2014-06-10,Image generation,,5.184e+17,,Canada,,https://arxiv.org/abs/1406.2661
+epoch_ai,,University of Oxford,2014-06-09,Video,,,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1406.2199
+epoch_ai,,"University of Montreal / UniversitÃ© de MontrÃ©al,Jacobs University,University of Maine",2014-06-03,Language,,,,"Canada,Germany,United States of America",,https://arxiv.org/abs/1406.1078
+epoch_ai,,University of Toronto,2014-06-01,Vision,47795232.0,,,Canada,,https://jmlr.org/papers/v15/srivastava14a.html
+epoch_ai,,Beihang University,2014-06-01,Language,13040.0,,,China,,https://www.semanticscholar.org/paper/Adaptive-Recursive-Neural-Network-for-Twitter-Dong-Wei/06e122f475a21d92dba137609c40f35690217475
+epoch_ai,,Google,2014-05-14,Language,32000000.0,,,United States of America,,https://www.semanticscholar.org/paper/Distributed-Representations-of-Sentences-and-Le-Mikolov/f3de86aeb442216a8391befcacb49e58b478f512
+epoch_ai,,University of Texas at Austin,2014-03-05,Games,239712.0,,,United States of America,,https://ieeexplore.ieee.org/abstract/document/6756960https://www.cs.utexas.edu/~mhauskn/papers/atari.pdf
+epoch_ai,,Stanford University,2014-01-01,Language,120000000.0,,,United States of America,,https://nlp.stanford.edu/projects/glove/
+epoch_ai,,Stanford University,2014-01-01,Language,120000000.0,,,United States of America,,https://nlp.stanford.edu/projects/glove/
+epoch_ai,,New York University (NYU),2013-12-21,Vision,144000000.0,,,United States of America,,https://arxiv.org/abs/1312.6229
+epoch_ai,,University of Amsterdam,2013-12-20,Vision,784000.0,475200000000000.0,,Netherlands,,https://arxiv.org/abs/1312.6114
+epoch_ai,,DeepMind,2013-12-19,Games,836096.0,2846883840000000.0,,United Kingdom of Great Britain and Northern Ireland,,https://arxiv.org/abs/1312.5602
+epoch_ai,,National University of Singapore,2013-12-16,Vision,,,,Singapore,,https://arxiv.org/abs/1312.4400
+epoch_ai,,Google,2013-12-11,Language,20000000000.0,,,United States of America,,https://arxiv.org/abs/1312.3005
+epoch_ai,,"Universite de Technologie de CompiÃ¨gne â CNRS,Google",2013-12-05,Language,942000000.0,1.340928e+18,,"France,United States of America",,https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html
+epoch_ai,,Google,2013-12-05,Vision,,,,United States of America,,https://www.semanticscholar.org/paper/DeViSE%3A-A-Deep-Visual-Semantic-Embedding-Model-Frome-Corrado/4aa4069693bee00d1b0759ca3df35e59284e9845
+epoch_ai,,New York University (NYU),2013-11-12,Vision,,5.32e+17,,United States of America,,https://arxiv.org/abs/1311.2901
+epoch_ai,,University of California (UC) Berkeley,2013-11-11,Vision,69003872.0,,,United States of America,,https://arxiv.org/abs/1311.2524
+epoch_ai,,Google,2013-10-16,Language,207600000.0,,,United States of America,,https://arxiv.org/abs/1310.4546
+epoch_ai,,Google,2013-10-16,Language,692000000.0,3.888e+16,,United States of America,,https://arxiv.org/abs/1310.4546
+epoch_ai,,Stanford University,2013-10-01,Language,,1.422e+16,,United States of America,,https://www.semanticscholar.org/paper/Recursive-Deep-Models-for-Semantic-Compositionality-Socher-Perelygin/687bac2d3320083eb4530bf18bb8f8f721477600
+epoch_ai,,University of Oxford,2013-10-01,Language,,9331200000000000.0,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Recurrent-Continuous-Translation-Models-Kalchbrenner-Blunsom/944a1cfd79dbfb6fef460360a0765ba790f4027a
+epoch_ai,,New York University (NYU),2013-08-01,Vision,51609600.0,2.3774688e+17,,United States of America,,https://ieeexplore.ieee.org/document/6338939
+epoch_ai,,"Google,University of Toronto,New York University (NYU)",2013-05-26,Speech,101706240.0,1.2773376e+17,,"United States of America,Canada,United States of America",,https://www.semanticscholar.org/paper/On-rectified-linear-units-for-speech-processing-Zeiler-Ranzato/64da1980714cfc130632c5b92b9d98c2f6763de6
+epoch_ai,,Google,2013-05-26,Speech,206899200.0,,,United States of America,,https://www.semanticscholar.org/paper/Multilingual-acoustic-models-using-distributed-deep-Heigold-Vanhoucke/a41b826d23957d6ad4e9e794d20a583a9b567c5d
+epoch_ai,,"University of Trento,University of Amsterdam",2013-04-02,Vision,,,,"Italy,Netherlands",,https://link.springer.com/article/10.1007/s11263-013-0620-5
+epoch_ai,,University of Toronto,2013-03-22,Speech,43000000.0,,,Canada,,https://arxiv.org/abs/1303.5778
+epoch_ai,,Google,2013-01-16,Language,,2.612736e+18,,United States of America,,https://arxiv.org/abs/1301.3781
+epoch_ai,,"IDSIA,SUPSI",2012-12-03,Vision,218896.0,4.78e+17,,"Switzerland,Switzerland",,https://www.semanticscholar.org/paper/Deep-Neural-Networks-Segment-Neuronal-Membranes-in-Ciresan-Giusti/09193e19b59fc8f05bee9d6efbfb1607ca5b6501
+epoch_ai,,Google,2012-12-03,Vision,1700000000.0,,,United States of America,,https://www.semanticscholar.org/paper/Large-Scale-Distributed-Deep-Networks-Dean-Corrado/3127190433230b3dc1abd0680bb58dced4bcd90e
+epoch_ai,,Google,2012-12-03,Speech,47185920.0,3.114e+17,,United States of America,,https://www.semanticscholar.org/paper/Large-Scale-Distributed-Deep-Networks-Dean-Corrado/3127190433230b3dc1abd0680bb58dced4bcd90e
+epoch_ai,,"University of Toronto,University of Sherbrooke,Harvard University",2012-12-02,Other,,,,"Canada,Canada,United States of America",,https://arxiv.org/abs/1206.2944
+epoch_ai,,"Microsoft,Brno University of Technology",2012-12-01,Language,9000000.0,,,"United States of America,Czechia",,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rnn_ctxt.pdf
+epoch_ai,,University of Toronto,2012-09-30,Vision,60000000.0,4.7e+17,,Canada,,https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+epoch_ai,,RWTH Aachen University,2012-09-09,Language,102720000.0,1.66e+16,,Germany,,https://www.semanticscholar.org/paper/LSTM-Neural-Networks-for-Language-Modeling-Sundermeyer-Schl%C3%BCter/f9a1b3850dfd837793743565a8af95973d395a4e
+epoch_ai,,"Microsoft Research,Brno University of Technology",2012-07-27,Language,,,,"United States of America,Czechia",,https://www.microsoft.com/en-us/research/wp-content/uploads/2012/07/rnn_ctxt_TR.sav_.pdf
+epoch_ai,,Google,2012-07-12,Vision,1000000000.0,6e+17,,United States of America,,https://arxiv.org/abs/1112.6209
+epoch_ai,,University of Toronto,2012-06-03,Speech,48840185.0,,,Canada,,https://arxiv.org/abs/1207.0580
+epoch_ai,,University of Toronto,2012-06-03,Vision,5594010.0,6039370800000000.0,,Canada,,https://arxiv.org/abs/1207.0580
+epoch_ai,,University of Toronto,2012-06-03,Vision,,2.731968e+17,,Canada,,https://arxiv.org/abs/1207.0580
+epoch_ai,,University of Toronto,2012-06-03,Vision,,4268700000000000.0,,Canada,,https://arxiv.org/abs/1207.0580
+epoch_ai,,"NEC Laboratories,Princeton University",2011-11-08,Language,5000000.0,,,"United States of America,United States of America",,https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
+epoch_ai,,IDSIA,2011-10-03,Vision,1388800.0,991981425600000.0,,Switzerland,,https://www.semanticscholar.org/paper/A-committee-of-neural-networks-for-traffic-sign-Ciresan-Meier/dd7f8b53e6802787179a961e766760cbbe2d5011
+epoch_ai,,"Technion - Israel Institute of Technology,Google,University of California (UC) Berkeley",2011-10-03,Language,,,,"Israel,United States of America,United States of America",,https://dl.acm.org/doi/10.5555/1953048.2021068
+epoch_ai,,IDSIA,2011-09-18,Vision,128420.0,2.6e+16,,Switzerland,,https://www.semanticscholar.org/paper/Convolutional-Neural-Network-Committees-for-Ciresan-Meier/260a7615bbffec052d67dffde5bcf9b4687b50ee
+epoch_ai,,IDSIA,2011-09-18,Vision,120620.0,5.2e+16,,Switzerland,,https://www.semanticscholar.org/paper/Convolutional-Neural-Network-Committees-for-Ciresan-Meier/260a7615bbffec052d67dffde5bcf9b4687b50ee
+epoch_ai,,"IDSIA,SUPSI",2011-07-16,Vision,4878300.0,2.57985e+16,,"Switzerland,Switzerland",,https://people.idsia.ch/~juergen/ijcai2011.pdf
+epoch_ai,,Stanford University,2011-06-28,"Vision,Language",,,,United States of America,,https://www.semanticscholar.org/paper/Parsing-Natural-Scenes-and-Natural-Language-with-Socher-Lin/9c0ddf74f87d154db88d79c640578c1610451eec
+epoch_ai,,Stanford University,2011-06-19,Language,255000.0,,,United States of America,,https://www.semanticscholar.org/paper/Learning-Word-Vectors-for-Sentiment-Analysis-Maas-Daly/1c61f9ef06fe74505775a833ff849185757199e7https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf
+epoch_ai,,"Carnegie Mellon University (CMU),Google Research",2011-06-19,Language,,,,"United States of America,United States of America",,https://aclanthology.org/P11-1061/
+epoch_ai,,University of Toronto,2011-04-29,Vision,139808256.0,3.672864e+16,,Canada,,https://www.semanticscholar.org/paper/Using-very-deep-autoencoders-for-content-based-Krizhevsky-Hinton/88080d28536f36588740737f3b7a1f6c1a409654
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2011-04-13,Vision,,,,Canada,,https://proceedings.mlr.press/v15/glorot11a.html
+epoch_ai,,Google,2010-09-26,Recommendation,,,,United States of America,,https://dl.acm.org/doi/10.1145/1864708.1864770
+epoch_ai,,Johns Hopkins University,2010-09-26,Language,70265000.0,5.396e+16,,United States of America,,https://www.semanticscholar.org/paper/Recurrent-neural-network-based-language-model-Mikolov-Karafi%C3%A1t/9819b600a828a57e1cde047bbe710d3446b30da5
+epoch_ai,,University of Bonn,2010-09-15,Vision,268664.0,1456277227200000.0,,Germany,,https://www.semanticscholar.org/paper/Evaluation-of-Pooling-Operations-in-Convolutional-Scherer-M%C3%BCller/5d21006fa32ff69f6b0a646f26ce0db84f2f4d33
+epoch_ai,,University of Bonn,2010-09-15,Vision,294912.0,1221124128768000.0,,Germany,,https://www.semanticscholar.org/paper/Evaluation-of-Pooling-Operations-in-Convolutional-Scherer-M%C3%BCller/5d21006fa32ff69f6b0a646f26ce0db84f2f4d33
+epoch_ai,,University of Toronto,2010-06-15,Vision,16210006.0,,,Canada,,https://dl.acm.org/doi/10.5555/3104322.3104425
+epoch_ai,,University of Toronto,2010-06-15,Vision,,,,Canada,,https://dl.acm.org/doi/10.5555/3104322.3104425
+epoch_ai,,Massachusetts Institute of Technology (MIT),2010-06-13,Vision,,1080000000000000.0,,United States of America,,https://ieeexplore.ieee.org/document/5540096
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2010-05-13,Vision,7082000.0,350000000000000.0,,Canada,,https://proceedings.mlr.press/v9/glorot10a.html
+epoch_ai,,"University of Montreal / UniversitÃ© de MontrÃ©al,University of Toronto",2010-01-03,Other,,,,"Canada,Canada",,https://www.jmlr.org/papers/v11/vincent10a.html
+epoch_ai,,"University of Illinois Urbana-Champaign (UIUC),NEC Laboratories,Rutgers University",2010-01-01,Vision,1025.0,,,"United States of America,United States of America,United States of America",,http://tongzhang-ml.org/papers/eccv10_supervect.pdf
+epoch_ai,,,2009-11-22,Vision,16818176.0,2452090060800000.0,,,,https://ieeexplore.ieee.org/document/5357786
+epoch_ai,,,2009-11-22,Vision,11616256.0,4181852160000000.0,,,,https://ieeexplore.ieee.org/document/5357786
+epoch_ai,,University of Bonn,2009-11-22,Vision,13729792.0,3295150080000000.0,,Germany,,https://ieeexplore.ieee.org/document/5357786
+epoch_ai,,AT&T,2009-09-21,Recommendation,,,,United States of America,,https://www.semanticscholar.org/paper/The-BellKor-solution-to-the-Netflix-Prize-Bell-Koren/f4ebb542c752a0dc423f94fd121e2edb8f6275ba
+epoch_ai,,New York University (NYU),2009-09-01,Vision,258800.0,20754000000000.0,,United States of America,,https://www.semanticscholar.org/paper/What-is-the-best-multi-stage-architecture-for-Jarrett-Kavukcuoglu/1f88427d7aa8225e47f946ac41a0667d7b69ac52
+epoch_ai,,"Yahoo Research,AT&T",2009-08-07,Recommendation,,,,"United States of America,United States of America",,https://ieeexplore.ieee.org/document/5197422
+epoch_ai,,Pragmatic Theory Inc.,2009-08-01,Recommendation,,,,Canada,,https://www.asc.ohio-state.edu/statistics/statgen/joul_aut2009/PragmaticTheory.pdf
+epoch_ai,,AT&T,2009-08-01,Recommendation,,,,United States of America,,https://www.asc.ohio-state.edu/statistics/statgen/joul_aut2009/BigChaos.pdf
+epoch_ai,,AT&T,2009-08-01,Recommendation,,,,United States of America,,https://www2.seas.gwu.edu/~simhaweb/champalg/cf/papers/KorenBellKor2009.pdf
+epoch_ai,,AT&T,2009-08-01,Recommendation,,,,United States of America,,https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/ProgressPrize2008_BellKor.pdf
+epoch_ai,,Stanford University,2009-06-15,Other,100000000.0,1000000000000000.0,,United States of America,,https://dl.acm.org/doi/abs/10.1145/1553374.1553486?utm_campaign=The+Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-95Z7-X4Dl-RJK6gYKvjyDIrYaGhBeqWoc0ldqyPEKni0Ip6UE7452hr-ygY52z00LBpYgM
+epoch_ai,,University of Toronto,2009-04-08,Vision,80000000.0,,,Canada,,https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
+epoch_ai,,University of Toronto,2009-01-01,Speech,18030592.0,,,Canada,,https://www.cs.utoronto.ca/~gdahl/papers/dbnPhoneRec.pdf
+epoch_ai,,University of Siena,2008-12-09,Other,30.0,1614600000.0,,Italy,,https://ieeexplore.ieee.org/document/4700287
+epoch_ai,,University of Toronto,2008-12-08,Language,1846400.0,,,Canada,,https://www.semanticscholar.org/paper/A-Scalable-Hierarchical-Distributed-Language-Model-Mnih-Hinton/a9fc84f8abe740cdc7ee82e69444d1d00dbe0ceb
+epoch_ai,,AT&T,2008-11-25,Recommendation,,,,United States of America,,https://www.asc.ohio-state.edu/statistics/statgen/joul_aut2009/BigChaos.pdf
+epoch_ai,,University of Lubeck,2008-11-19,Vision,,,,Germany,,https://pubmed.ncbi.nlm.nih.gov/19000969/
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2008-07-05,Other,,,,Canada,,https://dl.acm.org/doi/10.1145/1390156.1390294
+epoch_ai,,NEC Laboratories,2008-07-05,Language,1500000.0,,,United States of America,,https://dl.acm.org/doi/10.1145/1390156.1390177
+epoch_ai,,"University of Bern,IDSIA,Technical University of Munich",2007-12-03,Vision,100881.0,,,"Switzerland,Switzerland,Germany",,https://proceedings.neurips.cc/paper/2007/hash/4b0250793549726d5c1ea3906726ebfe-Abstract.html
+epoch_ai,,AT&T,2007-10-28,Recommendation,,,,United States of America,,https://ieeexplore.ieee.org/abstract/document/4470228
+epoch_ai,,"University of Bern,IDSIA,Technical University of Munich",2007-09-23,Vision,,,,"Switzerland,Switzerland,Germany",,https://people.idsia.ch//~juergen/icdar_2007.pdf
+epoch_ai,,Google,2007-06-22,Language,300000000000.0,1.4494464e+18,,United States of America,,https://www.semanticscholar.org/paper/Large-Language-Models-in-Machine-Translation-Brants-Popat/ba786c46373892554b98df42df7af6f5da343c9d
+epoch_ai,,Google,2007-06-22,Language,21000000000.0,7.7303808e+17,,United States of America,,https://www.semanticscholar.org/paper/Large-Language-Models-in-Machine-Translation-Brants-Popat/ba786c46373892554b98df42df7af6f5da343c9d
+epoch_ai,,UT Austin,2007-06-01,Language,,,,United States of America,,https://www.aclweb.org/anthology/P07-1121/
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2006-12-04,Other,,,,Canada,,https://dl.acm.org/doi/10.5555/2976456.2976476
+epoch_ai,,"University of Oulu,IEEE",2006-12-01,Vision,,,,"Finland,Multinational",,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.1094&rep=rep1&type=pdf
+epoch_ai,,University of Toronto,2006-07-18,Vision,3800000.0,,,Canada,,https://www.cs.toronto.edu/~hinton/science.pdf
+epoch_ai,,"University of Toronto,National University of Singapore",2006-07-18,Vision,1600000.0,,,"Canada,Singapore",,https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+epoch_ai,,New York University (NYU),2006-06-17,Vision,90857.0,745200000000000.0,,United States of America,,https://www.semanticscholar.org/paper/Large-scale-Learning-with-SVM-and-Convolutional-for-Huang-LeCun/cf03fdf52dd6e4249cbbdbd0bffbbbe5ca389feb
+epoch_ai,,"INRIA,University of Illinois Urbana-Champaign (UIUC),Ecole Normale SupÃ¨rieure",2006-06-17,Vision,,,,"France,United States of America,France",,https://inc.ucsd.edu/mplab/users/marni/Igert/Lazebnik_06.pdf
+epoch_ai,,INRIA,2006-05-29,Games,,,,France,,https://inria.hal.science/inria-00116992v1
+epoch_ai,,University of Cambridge,2006-05-07,Video,,,,United Kingdom of Great Britain and Northern Ireland,,https://link.springer.com/chapter/10.1007/11744023_34
+epoch_ai,,"Centre de Recherche en Automatique de Nancy (CRAN),CENPARMI",2006-02-02,Vision,,,,"France,Canada",,https://hal.archives-ouvertes.fr/hal-00018426/en
+epoch_ai,,"Microsoft Research,Microsoft",2005-08-07,Search,5711.0,3482081588304.0,,"United States of America,United States of America",,https://dl.acm.org/doi/abs/10.1145/1102351.1102363
+epoch_ai,,INRIA,2005-06-25,Vision,,,,France,,https://ieeexplore.ieee.org/document/1467360
+epoch_ai,,,2005-01-06,Language,,115848000000000.0,,,,https://www.semanticscholar.org/paper/Hierarchical-Probabilistic-Neural-Network-Language-Morin-Bengio/c19fbefdeead6a4154a22a9c8551a18b1530033a
+epoch_ai,,,2004-12-01,Vision,4096000.0,2782080000000000.0,,,,https://www.semanticscholar.org/paper/Linear-Multilayer-Independent-Component-Analysis-Matsuda-Yamaguchi/7061b01572fbff2e223ce3abb59f397895b1ebf1
+epoch_ai,,New York University (NYU),2004-06-27,Vision,90575.0,974230000000.0,,United States of America,,https://www.semanticscholar.org/paper/Learning-methods-for-generic-object-recognition-to-LeCun-Huang/f354310098e09c1e1dc88758fca36767fd9d084d
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2003-03-15,Language,4124233.0,132076260000000.0,,Canada,,https://dl.acm.org/doi/10.5555/944919.944966
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2003-03-15,Language,11904264.0,1666869200000000.0,,Canada,,https://dl.acm.org/doi/10.5555/944919.944966
+epoch_ai,,Stanford University,2003-02-02,Language,,,,United States of America,,https://jmlr.org/papers/volume3/blei03a/blei03a.pdf
+epoch_ai,,California Institute of Technology,2003-01-01,Vision,,,,United States of America,,https://link.springer.com/content/pdf/10.1007/3-540-45054-8_2.pdf
+epoch_ai,,"Cornell University,IBM",2002-05-28,Language,,,,"United States of America,United States of America",,https://arxiv.org/abs/cs/0205070
+epoch_ai,,"Mitsubishi Electric Research Labs,Compaq CRL",2001-12-08,Vision,12000.0,63000000000000.0,,"United States of America,United States of America",,https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+epoch_ai,,Stanford University,2001-10-01,Mathematics,,,,United States of America,,https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full
+epoch_ai,,Brown University,2001-07-06,Language,,,,United States of America,,https://dl.acm.org/doi/10.3115/1073012.1073029
+epoch_ai,,University College London (UCL),2000-11-28,Vision,3925310.0,51810000000000.0,,United Kingdom of Great Britain and Northern Ireland,,https://proceedings.neurips.cc/paper_files/paper/2000/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf
+epoch_ai,,University of Montreal / UniversitÃ© de MontrÃ©al,2000-11-28,Language,6906980.0,6339000000000000.0,,Canada,,https://papers.nips.cc/paper_files/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf
+epoch_ai,,"University of Southern California,IBM,University of Pennsylvania",1999-07-02,Language,,,,"United States of America,United States of America,United States of America",,http://www-i6.informatik.rwth-aachen.de/publications/download/266/al-onaizan--1999.pdf
+epoch_ai,,,1999-06-02,Language,112000.0,3864000000000.0,,,,https://www.semanticscholar.org/paper/Text-to-Text-Machine-Translation-Using-the-RECONTRA-Casta%C3%B1o-Casacuberta/47ee046b416d9258952cb8f4b0e2b6e65f334fad
+epoch_ai,,,1999-06-02,Language,66780.0,8013600000000.0,,,,https://www.semanticscholar.org/paper/Text-to-Text-Machine-Translation-Using-the-RECONTRA-Casta%C3%B1o-Casacuberta/47ee046b416d9258952cb8f4b0e2b6e65f334fad
+epoch_ai,,IDSIA,1999-01-02,Language,276.0,,,Switzerland,,https://ieeexplore.ieee.org/document/818041
+epoch_ai,,AT&T,1998-11-01,Vision,60000.0,2810937600000.0,,United States of America,,http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+epoch_ai,,Technical University of Munich,1997-11-15,Language,10504.0,31512000000000.0,,Germany,,https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext
+epoch_ai,,Advanced Telecommunications Research Institute,1997-11-01,Speech,13000.0,,,Japan,,https://ieeexplore.ieee.org/document/650093
+epoch_ai,,IBM,1997-05-01,Games,8000.0,,,United States of America,,https://www.sciencedirect.com/science/article/pii/S0004370201001291
+epoch_ai,,,1997-01-31,Vision,32015.0,31431600000.0,,,,https://www.semanticscholar.org/paper/Face-recognition%3A-a-convolutional-neural-network-Lawrence-Giles/86890c82b589e24007c56e1f40c5f928a0e04183
+epoch_ai,,AT&T,1996-07-03,Vision,,,,United States of America,,https://cseweb.ucsd.edu/~yfreund/papers/boostingexperiments.pdf
+epoch_ai,,Carnegie Mellon University (CMU),1996-06-18,Vision,6452.0,25859616000.0,,United States of America,,https://ieeexplore.ieee.org/document/655647
+epoch_ai,,,1996-06-03,Vision,13607.0,881733600000.0,,,,https://ieeexplore.ieee.org/document/549237
+epoch_ai,,University of Texas at Austin,1995-11-27,Vision,432800.0,195544800000.0,,United States of America,,https://www.semanticscholar.org/paper/Laterally-Interconnected-Self-Organizing-Maps-in-Choe-Sirosh/785f5facc76538ceba6f6b9e2d7b641d322e9854
+epoch_ai,,"AT&T,Bell Laboratories",1995-09-01,Vision,100000000.0,,,"United States of America,United States of America",,https://link.springer.com/article/10.1007/BF00994018
+epoch_ai,,Technical University of Munich,1994-12-02,Language,206910.0,18621900000000.0,,Germany,,https://proceedings.neurips.cc/paper/1994/file/5705e1164a8394aace6018e27d20d237-Paper.pdf
+epoch_ai,,,1994-12-02,Games,72251.0,858730812676.0,,,,https://www.semanticscholar.org/paper/Learning-to-Play-the-Game-of-Chess-Thrun/4bc7a6dcb9e0e6c7a26800532e2a00f5572eea47
+epoch_ai,,,1994-12-02,Vision,384000.0,453600000000.0,,,,https://www.semanticscholar.org/paper/Recognizing-Handwritten-Digits-Using-Mixtures-of-Hinton-Revow/9dea20c1e5bbb1f543ff08113ffde5380c679f1f
+epoch_ai,,,1994-12-02,Vision,4446.0,80828280.0,,,,https://proceedings.neurips.cc/paper_files/paper/1994/hash/4b0250793549726d5c1ea3906726ebfe-Abstract.html
+epoch_ai,,Massachusetts Institute of Technology (MIT),1994-10-22,Recommendation,,,,United States of America,,https://dl.acm.org/doi/10.1145/192844.192905
+epoch_ai,,Sapienza UniversitÃ  di Roma,1994-01-07,Materials science,1888.0,4531200000.0,,Italy,,https://www.sciencedirect.com/science/article/abs/pii/S0921883108605506
+epoch_ai,,,1993-11-29,Vision,5620.0,17534400000.0,,,,https://www.semanticscholar.org/paper/Non-Intrusive-Gaze-Tracking-Using-Artificial-Neural-Baluja-Pomerleau/574c0cf98825bf09b0ab7bbfe9ba89cd6090745e
+epoch_ai,,Bell Laboratories,1993-08-01,Vision,744.0,12869570138112.0,,United States of America,,https://www.semanticscholar.org/paper/Signature-Verification-Using-A-%22Siamese%22-Time-Delay-Bromley-Bentz/997dc5d9a058753f034422afe7bd0cc0b8ad808b
+epoch_ai,,IBM,1993-06-15,Language,1658364.0,,,United States of America,,https://dl.acm.org/doi/10.5555/972470.972474
+epoch_ai,,Bell Laboratories,1992-11-30,Vision,2578.0,,,United States of America,,https://www.semanticscholar.org/paper/Improving-Performance-in-Neural-Networks-Using-a-Drucker-Schapire/77b5185dafb9e5b884a677a32713e54c253a4e0b
+epoch_ai,,National Cancer Institute,1992-10-16,Medicine,594.0,53460000.0,,United States of America,,https://pubmed.ncbi.nlm.nih.gov/1411538/
+epoch_ai,,Alan Turing Institute,1992-10-01,Biology,,,,United Kingdom of Great Britain and Northern Ireland,,https://www.semanticscholar.org/paper/Protein-secondary-structure-prediction-using-Muggleton-King/9f744e48091a24b569435d070920e60db45f4fdc
+epoch_ai,,IBM,1992-05-01,Games,25000.0,18232157622832.703,,United States of America,,https://papers.nips.cc/paper/1991/file/68ce199ec2c5517597ce0a4d89620f55-Paper.pdf
+epoch_ai,,,1991-12-02,Speech,8386.0,75474000000.0,,,,https://www.semanticscholar.org/paper/A-Simple-Weight-Decay-Can-Improve-Generalization-Krogh-Hertz/48e1de7d085808004d5f0493d486669a3d2930b5
+epoch_ai,,,1990-11-01,Other,1536.0,,,,,https://www.sciencedirect.com/science/article/abs/pii/000437029090005K?via%3Dihub
+epoch_ai,,,1990-10-01,Vision,72940.0,78775200000.0,,,,https://www.semanticscholar.org/paper/SEXNET%3A-A-Neural-Network-Identifies-Sex-From-Human-Golomb-Lawrence/cbf90aa78fea0c8a1028705d92bc4bc7808ddeeb
+epoch_ai,,,1990-10-01,Vision,1640.0,,,,,https://www.semanticscholar.org/paper/SEXNET%3A-A-Neural-Network-Identifies-Sex-From-Human-Golomb-Lawrence/cbf90aa78fea0c8a1028705d92bc4bc7808ddeeb
+epoch_ai,,Stanford University,1990-10-01,Vision,,,,United States of America,,https://papers.nips.cc/paper_files/paper/1990/hash/e46de7e1bcaaced9a54f1e9d0d2f800d-Abstract.html
+epoch_ai,,,1990-06-17,Other,36.0,3059337600.0,,,,https://www.semanticscholar.org/paper/A-neural-network-model-for-bankruptcy-prediction-Odom-Sharda/ead9fa02902850a7418fb5ba720f3d9d8ab2f88b
+epoch_ai,,Oregon State University,1990-06-01,Speech,27480.0,35811936000.0,,United States of America,,https://www.sciencedirect.com/science/article/abs/pii/B9781558601413500079
+epoch_ai,,"AT&T,Bell Laboratories",1989-12-01,Vision,9760.0,1496338054440.0,,"United States of America,United States of America",,https://ieeexplore.ieee.org/document/6795724
+epoch_ai,,University of Washington,1989-11-27,Speech,3040.0,7485696000.0,,United States of America,,https://www.semanticscholar.org/paper/Performance-Comparisons-Between-Backpropagation-and-Atlas-Cole/e42d2b89fcb4a1a3dfa63408f424f76975ed1e1b
+epoch_ai,,AT&T,1989-11-27,Vision,2578.0,181440000000.0,,United States of America,,https://www.semanticscholar.org/paper/Handwritten-Digit-Recognition-with-a-Network-LeCun-Boser/86ab4cae682fbd49c5a5bedb630e5a40fa7529f6
+epoch_ai,,Stanford University,1989-06-18,Driving,805.0,,,United States of America,,https://ieeexplore.ieee.org/document/118723
+epoch_ai,,Complutense University of Madrid,1989-06-18,Vision,,27000000000.0,,Spain,,https://ieeexplore.ieee.org/document/118669
+epoch_ai,,University of London,1989-01-01,"Robotics,Games",,,,United Kingdom of Great Britain and Northern Ireland,,http://www.cs.rhul.ac.uk/~chrisw/thesis.html
+epoch_ai,,Science Applications International Corporation / SAIC,1989-01-01,Vision,,,,United States of America,,https://www.semanticscholar.org/paper/Detection-of-explosives-in-checked-airline-baggage-Shea-Lin/71da4057401f459bc079696a029aee45a0a89728
+epoch_ai,,McGill University,1988-08-01,Speech,10000.0,296425000.0,,Canada,,https://aaai.org/papers/00734-aaai88-130-data-driven-execution-of-multi-layered-networks-for-automatic-speech-recognition/
+epoch_ai,,"University of Chicago,Bell Laboratories,University of Western Ontario",1988-04-05,Language,,,,"United States of America,United States of America,Canada",,https://asistdl.onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9https://www.cs.csustan.edu/~mmartin/LDS/Deerwester-et-al.pdf
+epoch_ai,,Carnegie Mellon University (CMU),1987-06-15,,816.0,18032947200.0,,United States of America,,https://www.cs.toronto.edu/~hinton/absps/parle.pdf
+epoch_ai,,Princeton University,1987-06-06,Speech,18629.0,28328002560.0,,United States of America,,http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=03A3D3EDF0BAF35405ABCF083411B55E?doi=10.1.1.154.7012&rep=rep1&type=pdf
+epoch_ai,,Princeton University,1987-06-06,Speech,18629.0,27664065000.0,,United States of America,,http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=03A3D3EDF0BAF35405ABCF083411B55E?doi=10.1.1.154.7012&rep=rep1&type=pdf
+epoch_ai,,Massachusetts Institute of Technology (MIT),1986-11-01,Vision,,,,United States of America,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4767851
+epoch_ai,,"University of California San Diego,Carnegie Mellon University (CMU)",1986-10-01,Mathematics,720.0,673920000.0,,"United States of America,United States of America",,https://www.semanticscholar.org/paper/Learning-representations-by-back-propagating-errors-Rumelhart-Hinton/052b1d8ce63b07fec3de9dbb583772d860b7c769
+epoch_ai,,Carnegie Mellon University (CMU),1986-08-15,Other,432.0,388800000.0,,United States of America,,https://www.cs.toronto.edu/~hinton/absps/families.pdf
+epoch_ai,,"University of California San Diego,Carnegie Mellon University (CMU)",1986-01-03,Other,,,,"United States of America,United States of America",,https://stanford.edu/~jlmcc/papers/PDP/Volume%201/Chap8_PDP86.pdf
+epoch_ai,,NHK Broadcasting Science Research Laboratories,1984-04-01,Other,9315.0,,,Japan,,https://link.springer.com/article/10.1007/BF00337157
+epoch_ai,,University of Massachusetts Amherst,1983-09-01,Robotics,324.0,324000000.0,,United States of America,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6313077
+epoch_ai,,California Institute of Technology,1982-04-01,Other,9900.0,,,United States of America,,https://www.pnas.org/doi/10.1073/pnas.79.8.2554
+epoch_ai,,Helsinki University of Technology,1981-07-25,Mathematics,4096.0,,,Finland,,https://link.springer.com/article/10.1007/BF00337288
+epoch_ai,,NHK Broadcasting Science Research Laboratories,1980-04-01,Vision,1140576.0,273738240.0,,Japan,,https://link.springer.com/article/10.1007/BF00344251
+epoch_ai,,University of Zagreb,1976-07-01,Vision,,,,Croatia,,https://www.informatica.si/index.php/informatica/article/view/2828
+epoch_ai,,Biological Cybernetics,1975-09-01,Other,21600.0,5184000.0,,Japan,,https://link.springer.com/article/10.1007%2FBF00342633
+epoch_ai,,University of Kansas,1973-11-01,Vision,357.0,,,United States of America,,https://ieeexplore.ieee.org/document/4309314
+epoch_ai,,Tokyo Medical and Dental University,1969-05-01,Medicine,2450.0,,,Japan,,https://pubmed.ncbi.nlm.nih.gov/5820353/
+epoch_ai,,University of Edinburgh,1968-07-01,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.474.2430
+epoch_ai,,University of Edinburgh,1968-07-01,Games,,,,United Kingdom of Great Britain and Northern Ireland,,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.474.2430
+epoch_ai,,IBM,1966-11-01,Speech,2061.0,105917060.0,,United States of America,,https://pubs.aip.org/asa/jasa/article-abstract/40/5/966/754180/Experimental-Studies-in-Speaker-Verification-Using?redirectedFrom=fulltext
+epoch_ai,,Purdue University,1965-10-01,Robotics,,1080000.0,,United States of America,,https://ieeexplore.ieee.org/document/1098193
+epoch_ai,,IBM,1963-01-01,Vision,,22500000.0,,United States of America,,https://ieeexplore.ieee.org/document/5392331
+epoch_ai,,Stanford University,1962-07-01,Other,,,,United States of America,,https://www.proquest.com/openview/7898314db50a218b58052ac91e3bde1e/1?
+epoch_ai,,Bell Laboratories,1962-06-01,Mathematics,,1559250.0,,United States of America,,https://ieeexplore.ieee.org/document/4066882?denied=
+epoch_ai,,Stanford University,1960-06-30,Vision,17.0,6600.0,,United States of America,,https://isl.stanford.edu/~widrow/papers/c1960adaptiveswitching.pdf
+epoch_ai,,Cornell Aeronautical Laboratory,1960-03-30,Vision,1000.0,720000000.0,,United States of America,,https://www.semanticscholar.org/paper/Perceptron-Simulation-Experiments-Rosenblatt/ae76ce1ba27ac29addce4aab93b927e9bc7f7c67
+epoch_ai,,Sandia Corporation,1959-12-01,Vision,2625.0,,,United States of America,,https://dl.acm.org/doi/10.1145/1460299.1460326
+epoch_ai,,IBM,1959-07-01,Games,16.0,428400000.0,,United States of America,,https://ieeexplore.ieee.org/abstract/document/5392560
+epoch_ai,,Massachusetts Institute of Technology (MIT),1959-02-01,Language,,600000000.0,,United States of America,,https://aitopics.org/doc/classics:504E1BAC/
+epoch_ai,,"Cornell Aeronautical Laboratory,Cornell University",1957-01-01,Other,1000.0,694894.9377361819,,"United States of America,United States of America",,https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf
+epoch_ai,,Massachusetts Institute of Technology (MIT),1955-03-01,Vision,,,,United States of America,,https://dl.acm.org/doi/10.1145/1455292.1455310
+epoch_ai,,Massachusetts Institute of Technology (MIT),1955-03-01,Other,225.0,,,United States of America,,https://dl.acm.org/doi/10.1145/1455292.1455309
+epoch_ai,,Institute for Advanced Study,1954-07-02,"Mathematics,Biology",,,,United States of America,,https://link.springer.com/article/10.1007/BF01556771
+epoch_ai,,Harvard University,1952-01-08,Robotics,40.0,,,United States of America,,https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator
+epoch_ai,,Bell Laboratories,1950-07-02,Robotics,40.0,40.0,,United States of America,,https://www.technologyreview.com/2018/12/19/138508/mighty-mouse/
+epoch_ai,,Character.ai,,Language,13000000000.0,,,United States of America,,https://blog.character.ai/inside-kaiju-building-conversational-models-at-scale/ 
+epoch_ai,,Character.ai,,Language,34000000000.0,,,United States of America,,https://blog.character.ai/inside-kaiju-building-conversational-models-at-scale/ 
+epoch_ai,,Character.ai,,Language,110000000000.0,,,United States of America,,https://blog.character.ai/inside-kaiju-building-conversational-models-at-scale/ 
+epoch_ai,,xAI,,Language,500000000000.0,,,United States of America,,https://docs.x.ai/developers/models
