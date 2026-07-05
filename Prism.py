@@ -20,15 +20,34 @@ class DatasetAnalyzer():
 
     def classify_columns(self) -> dict:
         # lazy + memoization, ritorna dict {colonna: trattamento}
+        if self._classification is None:
+            self._classification = self._compute_classification()
+        return self._classification
+
 
     def get_numeric_summary(self):
         # lazy + memoization, chiama classify_columns internamente
+        if self._numeric_summary is None:
+            classification = self.classify_columns()
+            cols = [k for k, v in classification.items() if v == 'numeric_continuous']
+            self._numeric_summary = self._compute_numeric_summary(cols)
+        return self._numeric_summary
 
     def get_categorical_summary(self):
         # idem
-
+        if self._categorical_summary is None:
+            classification = self.classify_columns()
+            cols = [k for k, v in classification.items() if v == 'categorical']
+            self._categorical_summary = self._compute_categorical_summary(cols)
+        return self._categorical_summary
+    
     def get_temporal_summary(self):
         # idem
+        if self._temporal_summary is None:
+            classification = self.classify_columns()
+            cols = [k for k, v in classification.items() if v == 'temporal']
+            self._temporal_summary = self._compute_temporal_summary(cols)
+        return self._temporal_summary
 
     def generate_report(self):
         # orchestratore
@@ -64,6 +83,12 @@ class DatasetAnalyzer():
         return result
 
     def _compute_numeric_summary(self, cols):
+        # calcolo puro
+
+    def _compute_categorical_summary(self, cols):
+        # calcolo puro
+
+    def _compute_temporal_summary(self, cols):
         # calcolo puro
 
 
