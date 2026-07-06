@@ -84,12 +84,50 @@ class DatasetAnalyzer():
 
     def _compute_numeric_summary(self, cols):
         # calcolo puro
+        result = {}
+
+        for col in cols:
+            series = self._df[col]
+            result[col] = {
+                'min': series.min(),
+                'max': series.max(),
+                'mean': series.mean(),
+                'median': series.median(),
+                'std': series.std(),
+                'missing': series.isnull().sum()
+            }
+
+        return result
 
     def _compute_categorical_summary(self, cols):
         # calcolo puro
+        result = {}
+
+        for col in cols:
+            series = self._df[col]
+            result[col] = {
+                'unique_values': series.nunique(),
+                'top_5': series.value_counts().head(5).to_dict(),
+                'missing': series.isnull().sum()
+            }
+        
+        return result
 
     def _compute_temporal_summary(self, cols):
         # calcolo puro
+        result = {}
+
+        for col in cols:
+            series = self._df[col]
+            parsed = pd.to_datetime(series, errors='coerce')
+            result[col] = {
+                'min': parsed.min(),
+                'max': parsed.max(),
+                'range_days': (parsed.max() - parsed.min()).days,
+                'missing': parsed.isnull().sum()
+            }
+        
+        return result
 
 
 def main():
@@ -105,4 +143,3 @@ def main():
     analyzer = DatasetAnalyzer('data.csv') #case: se vuoi partire da csv, dopo verifichiamo i metodi di input
 
 main()
-
