@@ -129,6 +129,22 @@ class DatasetAnalyzer():
         
         return result
 
+    def generate_report(self):
+
+        lines = []
+
+        numeric_summary = self.get_numeric_summary()
+        categorical_summary = self.get_categorical_summary()
+        temporal_summary = self.get_temporal_summary()
+
+        lines.append('=== Prism report ===')
+        lines.append(f"Dataset shape: {self._df.shape}")
+        lines.append(f"Numeric summary: {numeric_summary}")
+        lines.append(f"Categorical summary: {categorical_summary}")
+        lines.append(f"Temporal summary: {temporal_summary}")
+
+        return '\n'.join(lines)
+
 
 def main():
     df = pd.read_csv("data/llm_benchmarks_2026.csv")
