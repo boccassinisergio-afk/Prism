@@ -49,9 +49,6 @@ class DatasetAnalyzer():
             self._temporal_summary = self._compute_temporal_summary(cols)
         return self._temporal_summary
 
-    def generate_report(self):
-        # orchestratore
-
     def _compute_classification(self):
         result = {}
         LOW_THRESHOLD = 0.05
@@ -89,12 +86,12 @@ class DatasetAnalyzer():
         for col in cols:
             series = self._df[col]
             result[col] = {
-                'min': series.min(),
-                'max': series.max(),
-                'mean': series.mean(),
-                'median': series.median(),
-                'std': series.std(),
-                'missing': series.isnull().sum()
+                'min': float(series.min()),
+                'max': float(series.max()),
+                'mean': float(series.mean()),
+                'median': float(series.median()),
+                'std': float(series.std()),
+                'missing': int(series.isnull().sum())
             }
 
         return result
@@ -108,7 +105,7 @@ class DatasetAnalyzer():
             result[col] = {
                 'unique_values': series.nunique(),
                 'top_5': series.value_counts().head(5).to_dict(),
-                'missing': series.isnull().sum()
+                'missing': int(series.isnull().sum())
             }
         
         return result
@@ -124,7 +121,7 @@ class DatasetAnalyzer():
                 'min': parsed.min(),
                 'max': parsed.max(),
                 'range_days': (parsed.max() - parsed.min()).days,
-                'missing': parsed.isnull().sum()
+                'missing': int(parsed.isnull().sum())
             }
         
         return result
