@@ -129,6 +129,7 @@ class DatasetAnalyzer():
     def generate_report(self):
 
         lines = []
+        classification = self.classify_columns()
 
         numeric_summary = self.get_numeric_summary()
         categorical_summary = self.get_categorical_summary()
@@ -139,6 +140,8 @@ class DatasetAnalyzer():
         lines.append(f"Numeric summary: {numeric_summary}")
         lines.append(f"Categorical summary: {categorical_summary}")
         lines.append(f"Temporal summary: {temporal_summary}")
+        lines.append(f"Excluded NaN: {[k for k, v in classification.items() if v == 'excluded_all_nan']}")
+        lines.append(f"Identifier: {[k for k, v in classification.items() if v == 'identifier']}")
 
         return '\n'.join(lines)
 
