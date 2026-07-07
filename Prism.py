@@ -4,6 +4,8 @@ from pandas.api.types import is_numeric_dtype
 import pandas as pd
 from pandas import col
 
+import argparse
+
 class DatasetAnalyzer():
     def __init__(self, df: pd.DataFrame):
         self._df = df
@@ -160,15 +162,14 @@ class DatasetAnalyzer():
 
 
 def main():
-    df = pd.read_csv("data/llm_benchmarks_2026.csv")
-    print(df.info())
-    print(df.shape)
-    print(df.isna().sum())
-    print(df.head())
 
-    df = pd.read_csv('data.csv')
-    analyzer = DatasetAnalyzer(df) #case: hai gia un dataframe, dopo verifichiamo i metodi di input
+    parser = argparse.ArgumentParser(description="Your file path in requested, insert it here.")
+    parser.add_argument('path', help='file path - Specify a CSV file path')
 
-    analyzer = DatasetAnalyzer('data.csv') #case: se vuoi partire da csv, dopo verifichiamo i metodi di input
+    args = parser.parse_args()
 
-main()
+    analyzer = DatasetAnalyzer.from_csv(args.path)
+    print(analyzer.generate_report())
+
+if __name__ == "__main__":
+    main()
