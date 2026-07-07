@@ -132,14 +132,27 @@ class DatasetAnalyzer():
         classification = self.classify_columns()
 
         numeric_summary = self.get_numeric_summary()
+        df_numeric = pd.DataFrame(numeric_summary).T
+        df_numeric['missing'] = df_numeric['missing'].astype(int)
         categorical_summary = self.get_categorical_summary()
         temporal_summary = self.get_temporal_summary()
+        df_temporal = pd.DataFrame(temporal_summary).T
 
-        lines.append('=== Prism report ===')
+        lines.append("/----------------------------------------- PRIMS REPORT ------------------------------------------/")
         lines.append(f"Dataset shape: {self._df.shape}")
-        lines.append(f"Numeric summary: {numeric_summary}")
-        lines.append(f"Categorical summary: {categorical_summary}")
-        lines.append(f"Temporal summary: {temporal_summary}")
+        lines.append("")
+        lines.append(f"/--------------------------------------- NUMERIC SUMMARY ----------------------------------------/")
+        lines.append(df_numeric.to_string())
+        lines.append("")
+        lines.append(f"/------------------------------------- CATEGORICAL SUMMARY --------------------------------------/")
+        for col, stats in categorical_summary.items():
+            lines.append(f"{col} (unique: {stats['unique_values']}, missing: {stats['missing']})")
+            for k, v in stats['top_5'].items():
+                lines.append(f"  {k} : {v}")
+        lines.append("")
+        lines.append(f"/--------------------------------------- TEMPORAL SUMMARY ---------------------------------------/")
+        lines.append(df_temporal.to_string())
+        lines.append("")
         lines.append(f"Excluded NaN: {[k for k, v in classification.items() if v == 'excluded_all_nan']}")
         lines.append(f"Identifier: {[k for k, v in classification.items() if v == 'identifier']}")
 
