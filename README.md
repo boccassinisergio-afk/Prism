@@ -6,7 +6,7 @@
 > *Un prisma scompone la luce bianca nelle sue lunghezze d'onda componenti.*
 > *Prism scompone qualsiasi dataset CSV nei suoi tipi di colonna componenti e fa emergere ciò che conta.*
 
-Prism è un tool Python che accetta qualsiasi file CSV e genera automaticamente un report di analisi strutturato - rilevando i tipi di colonna, calcolando le statistiche appropriate per ogni gruppo e presentando i risultati in un formato pulito e leggibile.
+Prism è un tool Python che accetta qualsiasi file CSV e genera automaticamente un report di analisi strutturato, rilevando i tipi di colonna, calcolando le statistiche appropriate per ogni gruppo e presentando i risultati in un formato pulito e leggibile.
 
 Costruito come applicazione reale di programmazione orientata agli oggetti e pandas, non come esercizio da manuale.
 
